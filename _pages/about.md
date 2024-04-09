@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Tyri
+title: About  (Virtual Influencer)
 permalink: /about
 comments: true
 ---
@@ -17,6 +17,8 @@ comments: true
 #크리에이터라이프 #타로애호가 #운동은사랑 #오운완-회원
 
 </div>
+</div>
+<div class="row justify-content-between">
 
 <div class="col-md-8 pr-5">
 
@@ -28,6 +30,7 @@ Let's also keep up with what's trending and what's new! 📱🌍 With me, you'll
 
 #CreatorLife #TarotLover #FitnessIsLove #오운완
 
+</div>
 </div>
 
 <div class="col-md-4">
