@@ -5,7 +5,6 @@ author: tyri
 date: 2024-4-9 10:07:19
 categories: tyri sora
 comments: true
-featured: true
 image: http://tyritarot.github.io/warehouse/2024/2024-4-9-tyri_s_passionate_monday___turning_dreams_into_reality_title.jpeg
 ---
 
