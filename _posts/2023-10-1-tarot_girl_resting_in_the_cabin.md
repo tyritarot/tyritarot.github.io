@@ -28,6 +28,7 @@ The artist's expert use of realism and fantasy elements create a harmonious blen
 
 
 ### The Anatomy of Artistry
+
 Prompt: (Full body shot)
 
 To encapsulate the entirety of the subject's figure in a single frame is the expectation from a 'full body shot'. This instruction demands a holistic representation of the subject, leaving no body part out of the frame. The term resonates with expressions such as "complete figure image" or "entire body portrait". Remember, the aim is to showcase the full human form, not just parts of it. 

@@ -19,7 +19,9 @@ She leans casually against the spaceship's metallic wall, her hand gripping the 
 Behind her, the backdrop unfolds into the vastness of space. Distant stars and galaxies spread across the scene, their subtle glow illuminating the cabin and casting a serene, otherworldly glow. This backdrop serves as a constant reminder of the endless wonders and mysteries the universe holds, encapsulating the boundless spirit of exploration and adventure.
 
 This image is a fascinating blend of fantasy and reality, capturing the spirit of a young girl exploring the cosmos and her love for the tarot. Her journey is both physical, exploring the vast reaches of space, and spiritual, exploring the mystical world of tarot, creating a compelling narrative that pulls the viewer in.
+
 ## Prompt Description
+
 ### Asset List
 * for instagram, semi-realism fantasy depiction
 * Teenage girl with short wavy blonde hair in a spaceship cabin
@@ -41,8 +43,6 @@ This instruction calls for a stylistic blend of realistic and fantastical elemen
 * Alternative Expressions: "Surreal fantasy art for social media", "Semi-realism mythical depiction for Instagram".
 * Contrastive expressions: "Hyper-realistic art", "Abstract fantasy", "Full realism depiction", "Cartoonish fantasy art".
 * Considerations: Consider Instagram's square format when creating the artwork. The blend between realism and fantasy should be balanced, without leaning too heavily on either side.
-
-
 
 ![img](http://tykimos.github.io/warehouse/2023/2023-10-3-tarot_girl_exercising_in_space_0_0.jpeg)
 ![img](http://tykimos.github.io/warehouse/2023/2023-10-3-tarot_girl_exercising_in_space_0_1.jpeg)

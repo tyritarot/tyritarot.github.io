@@ -13,7 +13,7 @@ image: http://tykimos.github.io/warehouse/2024/2024-4-7-shining_in_the_cherry_bl
 
 Hey everyone, it's Tyrie! 🌟 Soaking up the best of spring under the cherry blossoms. 🌸 Just had to share these magical moments with you. Can't overstate how special it feels to be surrounded by blossoms. Enjoying the true happiness of spring with friends and cherry blossom picnics! #CherryBlossoms #SpringVibes #TyrieMoments 🌸✨
 
-![img](http://tykimos.github.io/warehouse/2024/2024-4-7-shining_in_the_cherry_blossoms_and_just_me_title.jpg)
+![img](http://tykimos.github.io/warehouse/2024/2024-4-7-shining_in_the_cherry_blossoms_and_just_me_1.jpg)
 
 ### Dalle Prompt
 

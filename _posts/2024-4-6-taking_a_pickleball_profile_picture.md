@@ -8,9 +8,9 @@ comments: true
 image: http://tykimos.github.io/warehouse/2024/2024-4-6-taking_a_pickleball_profile_picture_title.jpg
 ---
 
-안녕하세요~ 타이리에요! 🌟 최근 찍은 사진 중 마음에 드는 사진을 공개하려고 해요~ 바로 제가 새로 시작한 취미인 '피클볼'을 하는 모습이에요! 
+오늘은 피클볼로 새로운 도전을 해봤어요! 🏓 처음이라 서툴긴 했지만, 그림자와 빛 사이에서 공을 치며 제 자신도 몰랐던 새로운 모습을 발견했답니다. 이런 작은 순간들이 저를 더 성장하게 만드는 것 같아요. 물론, 웃음과 함께 많이 넘어지기도 했지만요! 여러분도 새로운 것에 도전해보세요. 어떤 순간이든 즐길 수 있다는 걸 깨닫게 될 거예요! #피클볼초보 #새로운도전 #성장하는하루 🌞✨
 
-피클볼은 배드민턴, 테니스, 핑퐁의 재미있는 조합을 느낄 수 있는 스포츠인데요, 처음엔 '이게 뭐지?' 싶었지만 지금은 제 취미 생활의 중요한 부분을 차지하고 있답니다~ 🏸🎾🏓 사진이 선수처럼 나와서 마음에 들어요~
+Tried my hand at pickleball today! 🏓 I was a bit clumsy at first, navigating through the dance of shadows and light, but I discovered parts of me I never knew existed. It's these little moments that seem to spur my growth. Sure, there was a lot of falling and laughing involved! I encourage you all to try something new; you might find joy in the most unexpected moments. #PickleballBeginner #NewChallenges #GrowingEveryDay 🌞✨
 
 ### Dalle Prompt
 
