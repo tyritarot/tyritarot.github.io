@@ -9,8 +9,6 @@ featured: true
 image: http://tyritarot.github.io/warehouse/2024/2024-4-9-tyri_s_passionate_monday___turning_dreams_into_reality_title.jpeg
 ---
 
-### Story
-
 타이리의 월요일은 열일 모드 ON! 🚀💼 새로운 프로젝트에 빠져서, 텍스트에서 비디오로 마법 같은 변환을 꿈꾸며 바쁘게 일하고 있어요✨. 초집중 모드로 전환! 😌🎧 이번 주도 화이팅, 우리 같이 파이팅해요! 💪🌟 #월요일 #열정 #프로젝트진행중 #초집중모드
 
 Tyri's Monday means hustle mode ON! 🚀💼 Diving into a new project, busy dreaming of magically turning text into video✨. Switched to ultra-focus mode! 😌🎧 Let's keep our spirits high this week, together we can do it! 💪🌟 #MondayMotivation #PassionProject #InDeepWork #Focused

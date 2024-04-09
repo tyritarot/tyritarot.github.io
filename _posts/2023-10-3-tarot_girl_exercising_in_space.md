@@ -1,16 +1,13 @@
 ---
 layout: post
 title: "Tarot girl exercising in space"
-author: Taeyoung Kim
+author: tyri
 date: 2023-10-3 00:00:00
 categories: bic
 comments: true
 image: http://tykimos.github.io/warehouse/2023/2023-10-3-tarot_girl_exercising_in_space_title.jpeg
 ---
 
-![img](http://tykimos.github.io/warehouse/2023/2023-10-3-tarot_girl_exercising_in_space_title.jpeg)
-
-## Artwork Description
 In the deep expanse of space, where the distant stars twinkle like scattered diamonds, a teenage girl with short, wavy blonde hair floats in the zero-gravity environment of her spaceship cabin. She is depicted in a semi-realistic fantasy style, perfectly capturing the sheer wonder of space exploration and the youthful spirit of adventure.
 
 Her eyes radiate joy and curiosity as she smiles, floating a tarot card in front of her, a symbol of her connection to Earth and her personal belief in the mystical. The zero-gravity environment causes her wavy locks to drift around her face, creating a unique halo effect that adds to the ethereal quality of the image.

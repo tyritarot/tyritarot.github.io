@@ -1,16 +1,13 @@
 ---
 layout: post
 title: "Tarot girl resting in the cabin"
-author: Taeyoung Kim
+author: tyri
 date: 2023-10-1 09:00:00
 categories: bic
 comments: true
 image: http://tykimos.github.io/warehouse/2023/2023-10-1-tarot_girl_resting_in_the_cabin_title.jpeg
 ---
 
-![img](http://tykimos.github.io/warehouse/2023/2023-10-1-tarot_girl_resting_in_the_cabin_title.jpeg)
-
-## Artwork Description
 The artwork presents a captivating scene inside a cozy private cabin of a futuristic space-train. The room, bathed in soft, ambient light, introduces us to an unusual sight of a teenage girl floating upside-down in zero gravity, her short wavy blonde hair billowing around her like a golden halo.
 
 The girl is depicted in a full body shot, showcasing her long exercise garments, tailored for the unique challenges of space. The suit, with its sleek design and advanced material, contours her young form, yet allows for flexible, unrestricted movement, a perfect blend of aesthetics and functionality.

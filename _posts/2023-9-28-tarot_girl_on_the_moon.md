@@ -1,22 +1,13 @@
 ---
 layout: post
 title: "Tarot girl on the Moon"
-author: Taeyoung Kim
+author: tyri
 date: 2023-9-28 00:00:00
 categories: bic
 comments: true
 image: http://tykimos.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_title.jpeg
 ---
 
-![img](http://tykimos.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_title.jpeg)
-
-Another image :
-
-![img](http://tykimos.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_title_2.jpeg)
-
-![img](http://tykimos.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_title_3.jpeg)
-
-## Artwork Description
 This celestial artwork, in 4K resolution, unfolds a captivating narrative of a teenage girl engrossed in a cosmic tarot reading, her tranquility and mystique resonating with the desolate yet beautiful lunar landscape that envelops her.
 
 The girl, Caucasian, is the embodiment of serene elegance, her skin mirroring the refined luster of a pearl under the soft moonbeam. Her cheeks are graced with a subtle hue of peach, a blush soft like the delicate lunar glow. Her eyes, strikingly aquamarine, ringed by thick lashes, gleam with a quiet intensity, holding within them an untold story of her cosmic journey. The notable high cheekbones and plump lips reflecting the delicate hue of twilight further enhance her ethereal beauty.
@@ -26,7 +17,15 @@ She is seen donned in a sophisticated teal astronaut costume, exquisitely garnis
 The artwork focuses on a floating table in front of her, on which an elegant array of tarot cards is spread. Her fingers, infused with firm resolve and a touch of mystique, gently lift a unique card from the deck, symbolizing her connection with the cosmic forces. 
 
 The composition of this artwork, from the girl's serene expression and graceful posture to the details of her costume and the tarot cards, is beautifully bathed in the soft lunar glow, creating a scene that is at once earthly and otherworldly, real and fantastical. This mesmerizing depiction of a 'Cosmic Tarot Reader' is a testament to the fusion of science, art, and spirituality.
+
+Another image :
+
+![img](http://tykimos.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_title_2.jpeg)
+
+![img](http://tykimos.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_title_3.jpeg)
+
 ## Prompt Description
+
 ### Asset List
 * 4K, full body shot
 * Illustration of a fascinating teenage Caucasian girl, emanating tranquility and mystique during her cosmic tarot reading
@@ -48,8 +47,6 @@ This instruction calls for a high-quality image that encompasses the entire figu
 * Alternative Expressions: "High-Definition full body shot", "High-res full figure portrait".
 * Contrastive expressions: "Close-up shot", "Portrait shot", "Upper body shot", "Lower body shot", "Headshot"
 * Considerations: Make sure to include the whole body of the subject in the frame, from head to toe. Also, ensure the image is captured at a high resolution to meet the "4K" requirement.
-
-
 
 ![img](http://tykimos.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_0_0.jpeg)
 ![img](http://tykimos.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_0_1.jpeg)

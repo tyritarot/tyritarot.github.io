@@ -1,16 +1,13 @@
 ---
 layout: post
 title: "Tarot girl riding  the space elevator"
-author: Taeyoung Kim
+author: tyri
 date: 2023-9-29 00:00:00
 categories: bic
 comments: true
 image: http://tykimos.github.io/warehouse/2023/2023-9-29-tarot_girl_riding__the_space_elevator_title.jpeg
 ---
 
-![img](http://tykimos.github.io/warehouse/2023/2023-9-29-tarot_girl_riding__the_space_elevator_title.jpeg)
-
-## Artwork Description
 The illustration captures an intriguing juxtaposition of the modern and mystical, featuring a teenage girl in a spacesuit, engaged in her own unique ritual of cosmic tarot reading. The scene takes place in a long, tunnel-like space elevator, which serves as a surreal conduit between the Earth and the Moon. 
 
 The central figure is a fascinating Caucasian teenager, her youthful features etched with a degree of wisdom and curiosity that belies her tender years. She is clad in a sleek, futuristic spacesuit, which is meticulously detailed to showcase its advanced technology and functionality. The suit is a striking contrast to the age-old tarot cards that she holds with reverence, melding science and spirituality in a captivating tableau.

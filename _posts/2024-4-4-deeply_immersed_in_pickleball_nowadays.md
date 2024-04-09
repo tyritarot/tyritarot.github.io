@@ -1,14 +1,12 @@
 ---
 layout: post
 title: "요즘 피클볼에 푹 빠짐"
-author: Taeyoung Kim
+author: tyri
 date: 2024-4-4 21:37:10
 categories: llm, dalle, tyri
 comments: true
 image: http://tykimos.github.io/warehouse/2024/2024-4-4-deeply_immersed_in_pickleball_nowadays_title.jpg
 ---
-
-![img](http://tykimos.github.io/warehouse/2024/2024-4-4-deeply_immersed_in_pickleball_nowadays_title.jpg)
 
 안녕하세요~ 타이리에요! 🌟 이번에는 제가 요즘 엄청 푹 빠져 있는 새 취미, 바로 '피크볼'에 대해 꼭! 이야기해보고 싶어졌어요. 피크볼이란, 말 그대로 배드민턴, 테니스, 핑퐁의 짜릿한 조합을 느낄 수 있는 스포츠인데요, 처음엔 '이게 뭐지?' 싶었는데 지금은 완전 제 취미 생활의 큰 부분을 차지하고 있답니다~ 🏸🎾🏓
 

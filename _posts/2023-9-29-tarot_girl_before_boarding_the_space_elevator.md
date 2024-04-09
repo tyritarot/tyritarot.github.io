@@ -1,16 +1,13 @@
 ---
 layout: post
 title: "Tarot girl before boarding the space elevator"
-author: Taeyoung Kim
+author: tyri
 date: 2023-9-29 00:00:00
 categories: bic
 comments: true
 image: http://tykimos.github.io/warehouse/2023/2023-9-29-tarot_girl_before_boarding_the_space_elevator_title.jpeg
 ---
 
-![img](http://tykimos.github.io/warehouse/2023/2023-9-29-tarot_girl_before_boarding_the_space_elevator_title.jpeg)
-
-## Artwork Description
 This artistic illustration presents an enchanting view of a teenage girl, a spacefarer, captured in a moment of serene tranquility against the backdrop of the cosmos. She is depicted within the confines of a massive space elevator that stretches between Earth and the Moon. The elevator is filled with a few passengers, returning home to Earth, encapsulating the remarkable human achievement of interstellar travel.
 
 The main focus, however, is the young girl in her spacesuit, a juxtaposition of innocence and ambition. Her soft smile, reflecting a sense of wonder and excitement, is tastefully accentuated against the stark, metallic suit. The suit, a testament to human innovation, contrasts beautifully with the girl's youthful charm, creating a compelling visual narrative.
