@@ -5,6 +5,7 @@ author: tyri
 date: 2024-3-9 21:26:14
 categories: dalle
 comments: true
+featured: true
 image: http://tykimos.github.io/warehouse/2024/2024-3-9-sunny_day_baseball_cheers_title.jpeg
 ---
 

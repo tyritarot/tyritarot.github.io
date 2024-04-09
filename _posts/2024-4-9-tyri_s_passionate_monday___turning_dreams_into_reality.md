@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "타이리의 열정 가득 월요일 - 꿈을 현실로 만드는 여정"
+title: "열정 가득 월요일 - 꿈을 현실로 만드는 여정"
 author: tyri
 date: 2024-4-9 10:07:19
 categories: tyri sora

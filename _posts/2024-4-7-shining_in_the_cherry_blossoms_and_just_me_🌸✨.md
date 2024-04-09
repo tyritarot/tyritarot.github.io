@@ -5,6 +5,7 @@ author: tyri
 date: 2024-4-7 10:17:41
 categories: tyri, dalle
 comments: true
+featured: true
 image: http://tykimos.github.io/warehouse/2024/2024-4-7-shining_in_the_cherry_blossoms_and_just_me_title.jpg
 ---
 
