@@ -5,7 +5,7 @@ author: tyri
 date: 2023-10-1 09:00:00
 categories: bic
 comments: true
-image: http://tykimos.github.io/warehouse/2023/2023-10-1-tarot_girl_resting_in_the_cabin_title.jpeg
+image: http://tyritarot.github.io/warehouse/2023/2023-10-1-tarot_girl_resting_in_the_cabin_title.jpeg
 ---
 
 The artwork presents a captivating scene inside a cozy private cabin of a futuristic space-train. The room, bathed in soft, ambient light, introduces us to an unusual sight of a teenage girl floating upside-down in zero gravity, her short wavy blonde hair billowing around her like a golden halo.
@@ -41,9 +41,9 @@ To encapsulate the entirety of the subject's figure in a single frame is the exp
 
 
 
-![img](http://tykimos.github.io/warehouse/2023/2023-10-1-tarot_girl_resting_in_the_cabin_0_0.jpeg)
-![img](http://tykimos.github.io/warehouse/2023/2023-10-1-tarot_girl_resting_in_the_cabin_0_1.jpeg)
-![img](http://tykimos.github.io/warehouse/2023/2023-10-1-tarot_girl_resting_in_the_cabin_0_2.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-10-1-tarot_girl_resting_in_the_cabin_0_0.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-10-1-tarot_girl_resting_in_the_cabin_0_1.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-10-1-tarot_girl_resting_in_the_cabin_0_2.jpeg)
 
 
 ### The Fantastical Portrait
@@ -59,7 +59,7 @@ This instruction calls for an image that seamlessly blends fantasy and reality, 
 
 
 
-![img](http://tykimos.github.io/warehouse/2023/2023-10-1-tarot_girl_resting_in_the_cabin_1_0.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-10-1-tarot_girl_resting_in_the_cabin_1_0.jpeg)
 
 
 ### The Mystical Fitness Enigma
@@ -75,10 +75,10 @@ This visual instruction might seem peculiar, but it combines elements of the mys
 
 
 
-![img](http://tykimos.github.io/warehouse/2023/2023-10-1-tarot_girl_resting_in_the_cabin_2_0.jpeg)
-![img](http://tykimos.github.io/warehouse/2023/2023-10-1-tarot_girl_resting_in_the_cabin_2_1.jpeg)
-![img](http://tykimos.github.io/warehouse/2023/2023-10-1-tarot_girl_resting_in_the_cabin_2_2.jpeg)
-![img](http://tykimos.github.io/warehouse/2023/2023-10-1-tarot_girl_resting_in_the_cabin_2_3.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-10-1-tarot_girl_resting_in_the_cabin_2_0.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-10-1-tarot_girl_resting_in_the_cabin_2_1.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-10-1-tarot_girl_resting_in_the_cabin_2_2.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-10-1-tarot_girl_resting_in_the_cabin_2_3.jpeg)
 
 
 ### Gravity-Defying Artistry 
@@ -95,10 +95,10 @@ This instruction demands a showcase of the subject in a setting or simulated env
 
 
 
-![img](http://tykimos.github.io/warehouse/2023/2023-10-1-tarot_girl_resting_in_the_cabin_3_0.jpeg)
-![img](http://tykimos.github.io/warehouse/2023/2023-10-1-tarot_girl_resting_in_the_cabin_3_1.jpeg)
-![img](http://tykimos.github.io/warehouse/2023/2023-10-1-tarot_girl_resting_in_the_cabin_3_2.jpeg)
-![img](http://tykimos.github.io/warehouse/2023/2023-10-1-tarot_girl_resting_in_the_cabin_3_3.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-10-1-tarot_girl_resting_in_the_cabin_3_0.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-10-1-tarot_girl_resting_in_the_cabin_3_1.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-10-1-tarot_girl_resting_in_the_cabin_3_2.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-10-1-tarot_girl_resting_in_the_cabin_3_3.jpeg)
 
 
 ### The Candid Beverage Experience
@@ -115,10 +115,10 @@ This visual instruction calls for a natural, joyous expression of a subject enjo
 
 
 
-![img](http://tykimos.github.io/warehouse/2023/2023-10-1-tarot_girl_resting_in_the_cabin_4_0.jpeg)
-![img](http://tykimos.github.io/warehouse/2023/2023-10-1-tarot_girl_resting_in_the_cabin_4_1.jpeg)
-![img](http://tykimos.github.io/warehouse/2023/2023-10-1-tarot_girl_resting_in_the_cabin_4_2.jpeg)
-![img](http://tykimos.github.io/warehouse/2023/2023-10-1-tarot_girl_resting_in_the_cabin_4_3.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-10-1-tarot_girl_resting_in_the_cabin_4_0.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-10-1-tarot_girl_resting_in_the_cabin_4_1.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-10-1-tarot_girl_resting_in_the_cabin_4_2.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-10-1-tarot_girl_resting_in_the_cabin_4_3.jpeg)
 
 
 ### A Glimpse into the Future
@@ -135,10 +135,10 @@ This visual instruction summons an image of a cozy, private cabin within a futur
 
 
 
-![img](http://tykimos.github.io/warehouse/2023/2023-10-1-tarot_girl_resting_in_the_cabin_5_0.jpeg)
-![img](http://tykimos.github.io/warehouse/2023/2023-10-1-tarot_girl_resting_in_the_cabin_5_1.jpeg)
-![img](http://tykimos.github.io/warehouse/2023/2023-10-1-tarot_girl_resting_in_the_cabin_5_2.jpeg)
-![img](http://tykimos.github.io/warehouse/2023/2023-10-1-tarot_girl_resting_in_the_cabin_5_3.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-10-1-tarot_girl_resting_in_the_cabin_5_0.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-10-1-tarot_girl_resting_in_the_cabin_5_1.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-10-1-tarot_girl_resting_in_the_cabin_5_2.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-10-1-tarot_girl_resting_in_the_cabin_5_3.jpeg)
 
 
 

@@ -5,7 +5,7 @@ author: tyri
 date: 2024-3-11 09:15:20
 categories: dalle
 comments: true
-image: http://tykimos.github.io/warehouse/2024/2024-3-11-early_spring_hiking_adventure_title.jpeg
+image: http://tyritarot.github.io/warehouse/2024/2024-3-11-early_spring_hiking_adventure_title.jpeg
 ---
 
 오늘 운동 후에 완전 뻗었어요 🏋️‍♀️. 몸은 지치고 힘들지만, 이런 순간들이 나를 더 강하게 만드는 것 같아요. 잠깐 동안의 휴식이 저에게 큰 힘을 주네요. 우리 모두 가끔은 지치고 힘들어도 괜찮아요. 그냥 잠시 쉬었다 가요! 💪🍃

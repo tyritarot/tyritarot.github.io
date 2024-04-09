@@ -5,7 +5,7 @@ author: tyri
 date: 2024-3-13 00:00:30
 categories: dalle
 comments: true
-image: http://tykimos.github.io/warehouse/2024/2024-3-13-rainy_day_fitness_challenge_title.jpeg
+image: http://tyritarot.github.io/warehouse/2024/2024-3-13-rainy_day_fitness_challenge_title.jpeg
 ---
 
 비 오는 날, 너무 힘들고 지쳐서 그만 멈추고 싶을 때가 있죠. 그렇게 고단한 순간에도, 작은 쉼표를 찍고 다시 일어서는 모습을 보여주는 것이 얼마나 대단한 일인지 생각해봐요. 비 맞는 곳에서 쉴 수 있는 이 순간, 조금 더 힘을 내고 나아갈 수 있게 해줘요. 🌧️💪

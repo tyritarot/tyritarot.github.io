@@ -5,7 +5,7 @@ author: tyri
 date: 2023-9-29 00:00:00
 categories: bic
 comments: true
-image: http://tykimos.github.io/warehouse/2023/2023-9-29-tarot_girl_before_boarding_the_space_elevator_title.jpeg
+image: http://tyritarot.github.io/warehouse/2023/2023-9-29-tarot_girl_before_boarding_the_space_elevator_title.jpeg
 ---
 
 This artistic illustration presents an enchanting view of a teenage girl, a spacefarer, captured in a moment of serene tranquility against the backdrop of the cosmos. She is depicted within the confines of a massive space elevator that stretches between Earth and the Moon. The elevator is filled with a few passengers, returning home to Earth, encapsulating the remarkable human achievement of interstellar travel.
@@ -36,10 +36,10 @@ This instruction calls for a blend of realism and fantasy, an amalgamation of hu
 
 
 
-![img](http://tykimos.github.io/warehouse/2023/2023-9-29-tarot_girl_before_boarding_the_space_elevator_0_0.jpeg)
-![img](http://tykimos.github.io/warehouse/2023/2023-9-29-tarot_girl_before_boarding_the_space_elevator_0_1.jpeg)
-![img](http://tykimos.github.io/warehouse/2023/2023-9-29-tarot_girl_before_boarding_the_space_elevator_0_2.jpeg)
-![img](http://tykimos.github.io/warehouse/2023/2023-9-29-tarot_girl_before_boarding_the_space_elevator_0_3.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-9-29-tarot_girl_before_boarding_the_space_elevator_0_0.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-9-29-tarot_girl_before_boarding_the_space_elevator_0_1.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-9-29-tarot_girl_before_boarding_the_space_elevator_0_2.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-9-29-tarot_girl_before_boarding_the_space_elevator_0_3.jpeg)
 
 
 ### A Celestial Voyage
@@ -56,10 +56,10 @@ This prompt entails a complex scene that requires a skillful blend of sci-fi and
 
 
 
-![img](http://tykimos.github.io/warehouse/2023/2023-9-29-tarot_girl_before_boarding_the_space_elevator_1_0.jpeg)
-![img](http://tykimos.github.io/warehouse/2023/2023-9-29-tarot_girl_before_boarding_the_space_elevator_1_1.jpeg)
-![img](http://tykimos.github.io/warehouse/2023/2023-9-29-tarot_girl_before_boarding_the_space_elevator_1_2.jpeg)
-![img](http://tykimos.github.io/warehouse/2023/2023-9-29-tarot_girl_before_boarding_the_space_elevator_1_3.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-9-29-tarot_girl_before_boarding_the_space_elevator_1_0.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-9-29-tarot_girl_before_boarding_the_space_elevator_1_1.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-9-29-tarot_girl_before_boarding_the_space_elevator_1_2.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-9-29-tarot_girl_before_boarding_the_space_elevator_1_3.jpeg)
 
 
 

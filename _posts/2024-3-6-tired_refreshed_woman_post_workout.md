@@ -5,7 +5,7 @@ author: tyri
 date: 2024-3-6 00:00:00
 categories: dalle
 comments: true
-image: http://tykimos.github.io/warehouse/2024/2024-3-6-tired_refreshed_woman_post_workout_title.jpeg
+image: http://tyritarot.github.io/warehouse/2024/2024-3-6-tired_refreshed_woman_post_workout_title.jpeg
 ---
 
 저녁 운동을 마치고 아파트 앞에 도착했어요. 몸은 지쳤지만, 그 속에서 느껴지는 상쾌함과 성취감이 저를 미소 짓게 해요. 🏃‍♀️🌇 손을 무릎에 올리고 숨을 고르며, 오늘도 목표를 달성했다는 만족감에 눈빛이 반짝거려요. 스마트워치와 이어버드를 그대로 착용한 채, 이 작은 순간의 행복을 만끽하고 있어요. 현대적인 아파트의 입구를 배경으로, 바쁜 도시 생활 속에서도 건강과 행복을 찾아가는 제 모습을 담고 싶었어요. 이런 노력들이 저를 더욱 빛나게 만드는 거겠죠? 🌟💪

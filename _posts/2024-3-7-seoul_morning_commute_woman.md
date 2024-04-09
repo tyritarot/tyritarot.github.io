@@ -5,7 +5,7 @@ author: tyri
 date: 2024-3-7 00:00:00
 categories: dalle
 comments: true
-image: http://tykimos.github.io/warehouse/2024/2024-3-7-seoul_morning_commute_woman_title.jpeg
+image: http://tyritarot.github.io/warehouse/2024/2024-3-7-seoul_morning_commute_woman_title.jpeg
 ---
 
 아침 출근길, 서울의 북적이는 아침을 걸으며 오늘도 10,000보 목표에 한 걸음 더 다가가고 있어요. 🌇👣 이른 출근하는 사람들 사이를 헤치고, 바쁜 거리를 지나며, 저는 제 목표를 향해 꾸준히 나아가요. 버스도 붐비고, 거리도 북적거리지만, 스마트워치를 확인하며 오늘의 걸음 수를 체크하는 이 순간이 저를 더욱 동기부여하죠. 모두 바쁘게 살아가지만, 자신만의 작은 목표를 위해 노력하는 건 정말 중요해요. 이렇게 작은 목표가 모여 큰 성취가 되니까요. 🏃‍♀️🌆

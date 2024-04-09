@@ -5,7 +5,7 @@ author: tyri
 date: 2023-9-28 00:00:00
 categories: bic
 comments: true
-image: http://tykimos.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_title.jpeg
+image: http://tyritarot.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_title.jpeg
 ---
 
 This celestial artwork, in 4K resolution, unfolds a captivating narrative of a teenage girl engrossed in a cosmic tarot reading, her tranquility and mystique resonating with the desolate yet beautiful lunar landscape that envelops her.
@@ -20,9 +20,9 @@ The composition of this artwork, from the girl's serene expression and graceful 
 
 Another image :
 
-![img](http://tykimos.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_title_2.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_title_2.jpeg)
 
-![img](http://tykimos.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_title_3.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_title_3.jpeg)
 
 ## Prompt Description
 
@@ -48,10 +48,10 @@ This instruction calls for a high-quality image that encompasses the entire figu
 * Contrastive expressions: "Close-up shot", "Portrait shot", "Upper body shot", "Lower body shot", "Headshot"
 * Considerations: Make sure to include the whole body of the subject in the frame, from head to toe. Also, ensure the image is captured at a high resolution to meet the "4K" requirement.
 
-![img](http://tykimos.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_0_0.jpeg)
-![img](http://tykimos.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_0_1.jpeg)
-![img](http://tykimos.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_0_2.jpeg)
-![img](http://tykimos.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_0_3.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_0_0.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_0_1.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_0_2.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_0_3.jpeg)
 
 
 ### Into the Mystique
@@ -68,10 +68,10 @@ This prompt calls for an illustration of a captivating young Caucasian girl engr
 
 
 
-![img](http://tykimos.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_1_0.jpeg)
-![img](http://tykimos.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_1_1.jpeg)
-![img](http://tykimos.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_1_2.jpeg)
-![img](http://tykimos.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_1_3.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_1_0.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_1_1.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_1_2.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_1_3.jpeg)
 
 
 ### Poetry of the Night 
@@ -88,10 +88,10 @@ This instruction conveys a romantic, moonlit portrait of a woman with glowing pe
 
 
 
-![img](http://tykimos.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_2_0.jpeg)
-![img](http://tykimos.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_2_1.jpeg)
-![img](http://tykimos.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_2_2.jpeg)
-![img](http://tykimos.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_2_3.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_2_0.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_2_1.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_2_2.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_2_3.jpeg)
 
 
 ### A Mystical Journey Beyond Earth
@@ -107,10 +107,10 @@ A galaxy of artistic possibilities unfolds with this prompt. The artist is expec
 
 
 
-![img](http://tykimos.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_3_0.jpeg)
-![img](http://tykimos.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_3_1.jpeg)
-![img](http://tykimos.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_3_2.jpeg)
-![img](http://tykimos.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_3_3.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_3_0.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_3_1.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_3_2.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_3_3.jpeg)
 
 
 ### The Tranquil Interstellar Voyage
@@ -127,10 +127,10 @@ This instruction calls for a nuanced blend of light and shadow to capture the et
 
 
 
-![img](http://tykimos.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_4_0.jpeg)
-![img](http://tykimos.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_4_1.jpeg)
-![img](http://tykimos.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_4_2.jpeg)
-![img](http://tykimos.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_4_3.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_4_0.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_4_1.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_4_2.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_4_3.jpeg)
 
 
 ### The Allure of Arcane Arts
@@ -147,10 +147,10 @@ This instruction requires an image that captures the elegance and mysticism asso
 
 
 
-![img](http://tykimos.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_5_0.jpeg)
-![img](http://tykimos.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_5_1.jpeg)
-![img](http://tykimos.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_5_2.jpeg)
-![img](http://tykimos.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_5_3.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_5_0.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_5_1.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_5_2.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_5_3.jpeg)
 
 
 ### Embracing the Lunar Wilderness
@@ -167,10 +167,10 @@ The instruction here emphasizes a figure or subject being surrounded or envelope
 
 
 
-![img](http://tykimos.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_6_0.jpeg)
-![img](http://tykimos.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_6_1.jpeg)
-![img](http://tykimos.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_6_2.jpeg)
-![img](http://tykimos.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_6_3.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_6_0.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_6_1.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_6_2.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-9-28-tarot_girl_on_the_moon_6_3.jpeg)
 
 
 

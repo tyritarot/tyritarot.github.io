@@ -5,7 +5,7 @@ author: tyri
 date: 2024-3-9 07:25:32
 categories: dalle
 comments: true
-image: http://tykimos.github.io/warehouse/2024/2024-3-9-the_night_owl_programmer_title.jpeg
+image: http://tyritarot.github.io/warehouse/2024/2024-3-9-the_night_owl_programmer_title.jpeg
 ---
 
 밤 늦게까지 코드와 씨름하고 있어요. 🌙💻 개발자 티셔츠를 입고, 안경을 쓰고 이 화면 앞에 앉아 있으니 진짜 프로그래머 같네요. 하지만 여러분, 이게 바로 제가 좋아하는 일이에요. 때론 힘들고 머리 아픈 문제들도 있지만, 그 문제를 해결했을 때의 성취감은 정말 대단해요. 우리 모두 각자의 밤을 밝히며 멋진 것들을 만들어가고 있잖아요? 🌟

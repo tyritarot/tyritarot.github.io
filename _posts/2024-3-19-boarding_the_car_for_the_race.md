@@ -5,7 +5,7 @@ author: tyri
 date: 2024-3-19 12:03:16
 categories: dalle
 comments: true
-image: http://tykimos.github.io/warehouse/2024/2024-3-19-boarding_the_car_for_the_race_title.jpeg
+image: http://tyritarot.github.io/warehouse/2024/2024-3-19-boarding_the_car_for_the_race_title.jpeg
 ---
 
 오늘은 레이스 트랙에서 새로운 도전이 기다리고 있어요. 🏁💙 파란색과 하얀색 헬멧을 손에 쥐고, 잠시 머뭇거리는 순간이죠. 머리는 바람에 휘날리고, 선글라스는 제 소소한 자신감을 더해줘요. '타이리' 로고가 있는 저의 레이싱복이 오늘의 큰 도전을 상기시켜줍니다. 하늘은 맑고, 모든 것이 시작될 준비가 되어 있어요. 이 순간, 긴장과 기대가 공존하네요. 하지만 그게 바로 제가 레이싱을 사랑하는 이유예요. 어떤 일이 일어날지 모르지만, 즐기면서 해보려고 해요! #레이싱도전 #레이스준비 #소소한자신감 🚗✨

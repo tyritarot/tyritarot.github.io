@@ -5,7 +5,7 @@ author: tyri
 date: 2023-10-3 00:00:00
 categories: bic
 comments: true
-image: http://tykimos.github.io/warehouse/2023/2023-10-3-tarot_girl_exercising_in_space_title.jpeg
+image: http://tyritarot.github.io/warehouse/2023/2023-10-3-tarot_girl_exercising_in_space_title.jpeg
 ---
 
 In the deep expanse of space, where the distant stars twinkle like scattered diamonds, a teenage girl with short, wavy blonde hair floats in the zero-gravity environment of her spaceship cabin. She is depicted in a semi-realistic fantasy style, perfectly capturing the sheer wonder of space exploration and the youthful spirit of adventure.
@@ -44,10 +44,10 @@ This instruction calls for a stylistic blend of realistic and fantastical elemen
 * Contrastive expressions: "Hyper-realistic art", "Abstract fantasy", "Full realism depiction", "Cartoonish fantasy art".
 * Considerations: Consider Instagram's square format when creating the artwork. The blend between realism and fantasy should be balanced, without leaning too heavily on either side.
 
-![img](http://tykimos.github.io/warehouse/2023/2023-10-3-tarot_girl_exercising_in_space_0_0.jpeg)
-![img](http://tykimos.github.io/warehouse/2023/2023-10-3-tarot_girl_exercising_in_space_0_1.jpeg)
-![img](http://tykimos.github.io/warehouse/2023/2023-10-3-tarot_girl_exercising_in_space_0_2.jpeg)
-![img](http://tykimos.github.io/warehouse/2023/2023-10-3-tarot_girl_exercising_in_space_0_3.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-10-3-tarot_girl_exercising_in_space_0_0.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-10-3-tarot_girl_exercising_in_space_0_1.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-10-3-tarot_girl_exercising_in_space_0_2.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-10-3-tarot_girl_exercising_in_space_0_3.jpeg)
 
 
 ### Cosmic Youth: The Blonde in the Spaceship Cabin
@@ -64,9 +64,9 @@ The instruction here paints a vivid picture of a young girl in an intriguing, sc
 
 
 
-![img](http://tykimos.github.io/warehouse/2023/2023-10-3-tarot_girl_exercising_in_space_1_0.jpeg)
-![img](http://tykimos.github.io/warehouse/2023/2023-10-3-tarot_girl_exercising_in_space_1_1.jpeg)
-![img](http://tykimos.github.io/warehouse/2023/2023-10-3-tarot_girl_exercising_in_space_1_2.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-10-3-tarot_girl_exercising_in_space_1_0.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-10-3-tarot_girl_exercising_in_space_1_1.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-10-3-tarot_girl_exercising_in_space_1_2.jpeg)
 
 
 ### The Weightless Wonderland
@@ -83,9 +83,9 @@ This prompt takes the viewer into a realm of fantasy and surrealism. The artist 
 
 
 
-![img](http://tykimos.github.io/warehouse/2023/2023-10-3-tarot_girl_exercising_in_space_2_0.jpeg)
-![img](http://tykimos.github.io/warehouse/2023/2023-10-3-tarot_girl_exercising_in_space_2_1.jpeg)
-![img](http://tykimos.github.io/warehouse/2023/2023-10-3-tarot_girl_exercising_in_space_2_2.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-10-3-tarot_girl_exercising_in_space_2_0.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-10-3-tarot_girl_exercising_in_space_2_1.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-10-3-tarot_girl_exercising_in_space_2_2.jpeg)
 
 
 ### The Athletic Gear Aesthetic
@@ -101,10 +101,10 @@ The focus of this instruction is on capturing a subject dressed in fitness attir
 
 
 
-![img](http://tykimos.github.io/warehouse/2023/2023-10-3-tarot_girl_exercising_in_space_3_0.jpeg)
-![img](http://tykimos.github.io/warehouse/2023/2023-10-3-tarot_girl_exercising_in_space_3_1.jpeg)
-![img](http://tykimos.github.io/warehouse/2023/2023-10-3-tarot_girl_exercising_in_space_3_2.jpeg)
-![img](http://tykimos.github.io/warehouse/2023/2023-10-3-tarot_girl_exercising_in_space_3_3.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-10-3-tarot_girl_exercising_in_space_3_0.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-10-3-tarot_girl_exercising_in_space_3_1.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-10-3-tarot_girl_exercising_in_space_3_2.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-10-3-tarot_girl_exercising_in_space_3_3.jpeg)
 
 
 ### The Sci-fi Stance
@@ -121,7 +121,7 @@ This visual instruction conjures an image of a female figure leaning on a futuri
 
 
 
-![img](http://tykimos.github.io/warehouse/2023/2023-10-3-tarot_girl_exercising_in_space_4_0.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-10-3-tarot_girl_exercising_in_space_4_0.jpeg)
 
 
 ### Fitness in Limited Spaces
@@ -137,10 +137,10 @@ The expectation from this prompt is to capture an image of a person using a wall
 
 
 
-![img](http://tykimos.github.io/warehouse/2023/2023-10-3-tarot_girl_exercising_in_space_5_0.jpeg)
-![img](http://tykimos.github.io/warehouse/2023/2023-10-3-tarot_girl_exercising_in_space_5_1.jpeg)
-![img](http://tykimos.github.io/warehouse/2023/2023-10-3-tarot_girl_exercising_in_space_5_2.jpeg)
-![img](http://tykimos.github.io/warehouse/2023/2023-10-3-tarot_girl_exercising_in_space_5_3.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-10-3-tarot_girl_exercising_in_space_5_0.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-10-3-tarot_girl_exercising_in_space_5_1.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-10-3-tarot_girl_exercising_in_space_5_2.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-10-3-tarot_girl_exercising_in_space_5_3.jpeg)
 
 
 ### The Cosmic Stage
@@ -157,10 +157,10 @@ The instruction provided above calls for a backdrop that encapsulates the limitl
 
 
 
-![img](http://tykimos.github.io/warehouse/2023/2023-10-3-tarot_girl_exercising_in_space_6_0.jpeg)
-![img](http://tykimos.github.io/warehouse/2023/2023-10-3-tarot_girl_exercising_in_space_6_1.jpeg)
-![img](http://tykimos.github.io/warehouse/2023/2023-10-3-tarot_girl_exercising_in_space_6_2.jpeg)
-![img](http://tykimos.github.io/warehouse/2023/2023-10-3-tarot_girl_exercising_in_space_6_3.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-10-3-tarot_girl_exercising_in_space_6_0.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-10-3-tarot_girl_exercising_in_space_6_1.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-10-3-tarot_girl_exercising_in_space_6_2.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-10-3-tarot_girl_exercising_in_space_6_3.jpeg)
 
 
 

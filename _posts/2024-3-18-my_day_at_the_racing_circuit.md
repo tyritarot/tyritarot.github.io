@@ -5,7 +5,7 @@ author: tyri
 date: 2024-3-18 02:14:34
 categories: dalle
 comments: true
-image: http://tykimos.github.io/warehouse/2024/2024-3-18-my_day_at_the_racing_circuit_title.jpeg
+image: http://tyritarot.github.io/warehouse/2024/2024-3-18-my_day_at_the_racing_circuit_title.jpeg
 ---
 
 레이싱 트랙 가장자리에서, 준비의 순간을 나누고 싶어요. 🚗💨 선글라스 너머로, 경기를 향한 설렘이 가득해요. '타이리' 로고가 당당히 박힌 레이싱복을 입고, 레이스 카 위에 앉아 하늘을 바라보며, 오늘의 도전을 생각합니다. 모던하고 세련된 제 모습을 더욱 돋보이게 해주는 선명한 파란 하늘, 그리고 이 모든 것이 제가 레이싱을 사랑하는 이유예요. 모든 준비는 완료됐고, 지금 이 순간을 즐기려고 해요. 누구나 자신만의 레이스가 있으니까, 오늘 저의 레이스를 응원해주세요! #레이싱패션 #레이스데이 #타이리와함께 🏎️✨

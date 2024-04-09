@@ -5,7 +5,7 @@ author: tyri
 date: 2024-3-15 12:05:08
 categories: dalle
 comments: true
-image: http://tykimos.github.io/warehouse/2024/2024-3-15-study_day_bliss:_surrounded_by_papers_title.jpeg
+image: http://tyritarot.github.io/warehouse/2024/2024-3-15-study_day_bliss:_surrounded_by_papers_title.jpeg
 ---
 
 오늘도 바닥에 쿠션을 깔고 책 속 세계에 빠져봅니다. 📚 곁에서 고양이가 살금살금 다가와 제 무릎을 베고 잠이 들었어요. 이런 작은 일상 속에서도, 각자의 시간을 존중하며 소소한 행복을 찾아가는 건 어떨까요? 우리 모두 각각의 방식으로, 오늘 하루도 잘 보내고 있겠죠. 잔잔한 일상이 주는 위안을 함께 느껴봅시다.

@@ -6,7 +6,7 @@ date: 2024-3-9 21:26:14
 categories: dalle
 comments: true
 featured: true
-image: http://tykimos.github.io/warehouse/2024/2024-3-9-sunny_day_baseball_cheers_title.jpeg
+image: http://tyritarot.github.io/warehouse/2024/2024-3-9-sunny_day_baseball_cheers_title.jpeg
 ---
 
 야구 경기 보러 왔어요! 🧢⚾️ 햇살 좋은 날, 열정적인 팬들 사이에서 응원하는 건 정말 다른 에너지를 주네요. 선글라스 넘어 경기를 집중해서 보는 순간, 모두가 하나 되는 기분이에요. 경기장의 활기찬 분위기 속에서, 작은 일상의 행복을 찾는 것 같아요. 이런 순간들이 삶을 더욱 특별하게 만들어 줍니다. 🌞🎉
@@ -19,8 +19,8 @@ Revise the image to show Tyri with her chin pulled down further, looking over he
 
 ### Others
 
-![img](http://tykimos.github.io/warehouse/2024/2024-3-9-sunny_day_baseball_cheers_3.jpg)
+![img](http://tyritarot.github.io/warehouse/2024/2024-3-9-sunny_day_baseball_cheers_3.jpg)
 
-![img](http://tykimos.github.io/warehouse/2024/2024-3-9-sunny_day_baseball_cheers_1.jpg)
+![img](http://tyritarot.github.io/warehouse/2024/2024-3-9-sunny_day_baseball_cheers_1.jpg)
 
-![img](http://tykimos.github.io/warehouse/2024/2024-3-9-sunny_day_baseball_cheers_2.jpg)
+![img](http://tyritarot.github.io/warehouse/2024/2024-3-9-sunny_day_baseball_cheers_2.jpg)

@@ -5,7 +5,7 @@ author: tyri
 date: 2023-9-29 00:00:00
 categories: bic
 comments: true
-image: http://tykimos.github.io/warehouse/2023/2023-9-29-tarot_girl_riding__the_space_elevator_title.jpeg
+image: http://tyritarot.github.io/warehouse/2023/2023-9-29-tarot_girl_riding__the_space_elevator_title.jpeg
 ---
 
 The illustration captures an intriguing juxtaposition of the modern and mystical, featuring a teenage girl in a spacesuit, engaged in her own unique ritual of cosmic tarot reading. The scene takes place in a long, tunnel-like space elevator, which serves as a surreal conduit between the Earth and the Moon. 
@@ -37,10 +37,10 @@ The request here is for an imaginative visualization of a young girl's space voy
 
 
 
-![img](http://tykimos.github.io/warehouse/2023/2023-9-29-tarot_girl_riding__the_space_elevator_0_0.jpeg)
-![img](http://tykimos.github.io/warehouse/2023/2023-9-29-tarot_girl_riding__the_space_elevator_0_1.jpeg)
-![img](http://tykimos.github.io/warehouse/2023/2023-9-29-tarot_girl_riding__the_space_elevator_0_2.jpeg)
-![img](http://tykimos.github.io/warehouse/2023/2023-9-29-tarot_girl_riding__the_space_elevator_0_3.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-9-29-tarot_girl_riding__the_space_elevator_0_0.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-9-29-tarot_girl_riding__the_space_elevator_0_1.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-9-29-tarot_girl_riding__the_space_elevator_0_2.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-9-29-tarot_girl_riding__the_space_elevator_0_3.jpeg)
 
 
 ### Tarot Mystique
@@ -57,10 +57,10 @@ This prompt suggests an image that captures the enigmatic charm of a teenage Cau
 
 
 
-![img](http://tykimos.github.io/warehouse/2023/2023-9-29-tarot_girl_riding__the_space_elevator_1_0.jpeg)
-![img](http://tykimos.github.io/warehouse/2023/2023-9-29-tarot_girl_riding__the_space_elevator_1_1.jpeg)
-![img](http://tykimos.github.io/warehouse/2023/2023-9-29-tarot_girl_riding__the_space_elevator_1_2.jpeg)
-![img](http://tykimos.github.io/warehouse/2023/2023-9-29-tarot_girl_riding__the_space_elevator_1_3.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-9-29-tarot_girl_riding__the_space_elevator_1_0.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-9-29-tarot_girl_riding__the_space_elevator_1_1.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-9-29-tarot_girl_riding__the_space_elevator_1_2.jpeg)
+![img](http://tyritarot.github.io/warehouse/2023/2023-9-29-tarot_girl_riding__the_space_elevator_1_3.jpeg)
 
 
 
