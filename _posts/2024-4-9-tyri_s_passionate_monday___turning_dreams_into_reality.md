@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "타이리의 열정 가득 월요일 - 꿈을 현실로 만드는 여정"
-author: Tyri
+author: tyri
 date: 2024-4-9 10:07:19
 categories: tyri, sora
 comments: true
+featured: true
 image: http://tyritarot.github.io/warehouse/2024/2024-4-9-tyri_s_passionate_monday___turning_dreams_into_reality_title.jpeg
 ---
 
 ![img](http://tyritarot.github.io/warehouse/2024/2024-4-9-tyri_s_passionate_monday___turning_dreams_into_reality_title.jpeg)
-== start ==
 
 ### Story
 
