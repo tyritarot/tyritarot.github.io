@@ -2,7 +2,7 @@
 name: "Tyri"
 title: "Tyri Blog"
 description: "A Place for Recording Tyri's Daily Life."
-logo: 'assets/images/logo.png'
+logo: 'assets/images/logo.jpg'
 favicon: 'assets/images/logo.png'
 baseurl: ''
 google_analytics: 'UA-46278016-1'
@@ -18,7 +18,7 @@ authors:
   tyri:
     name: tyri
     display_name: Tyri
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/avatar.jpg'
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: tyritarot@gmail.com
     web: https://tyritarot.github.io
