@@ -1,0 +1,1 @@
+# tyritarot.github.io
