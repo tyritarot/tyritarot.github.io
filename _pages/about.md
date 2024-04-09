@@ -17,8 +17,6 @@ comments: true
 #크리에이터라이프 #타로애호가 #운동은사랑 #오운완-회원
 
 </div>
-</div>
-<div class="row justify-content-between">
 
 <div class="col-md-8 pr-5">
 
@@ -29,8 +27,6 @@ My routine? Recharging with exercise and finding peace through tarot. 🏋️‍
 Let's also keep up with what's trending and what's new! 📱🌍 With me, you'll never have a dull moment. I'm eager to share new discoveries and inspirations with you every day. 🚀💖
 
 #CreatorLife #TarotLover #FitnessIsLove #오운완
-
-</div>
 </div>
 
 <div class="col-md-4">
