@@ -29,4 +29,4 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: |
-          python blog_writing.py
+          python scripts/blog_writing.py
