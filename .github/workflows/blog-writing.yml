@@ -1,6 +1,6 @@
 name: blog-writing
 run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
-on: dispatches
+on: workflow_dispatch
 jobs:
   blog-writing:
     runs-on: ubuntu-latest
