@@ -54,7 +54,7 @@ KEY_JSON = os.getenv("GOOGLE_KEY_JSON")
 #GITHUB_REPO_NAME = "tykimos/tykimos.github.io"
 GITHUB_REPO_NAME = "tyritarot/tyritarot.github.io"
 GITHUB_USER = "tyritarot"
-
+ 
 GT_TOKEN_KEY = os.getenv("GT_TOKEN_KEY")
 
 PROCESS_FLOW = ["blog_content_generation", "github_upload"]
