@@ -1,0 +1,32 @@
+name: blog-writing
+run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
+on: [push]
+jobs:
+  blog-writing:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install google-api-python-client google-auth-httplib2 google-auth-oauthlib
+          pip install gspread
+          pip install openai
+          pip install gspread
+          pip install tqdm
+          pip install langchain-core
+          pip install langchain_openai
+          pip install langchain-community
+
+      - name: Generate content
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          python blog_writing.py
