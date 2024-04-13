@@ -1,0 +1,25 @@
+---
+layout: default
+title: LiteGraph Demo
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% include head.html %}
+    <script src="{{ '/assets/js/litegraph.js' | relative_url }}"></script>
+</head>
+<body>
+    <h1>LiteGraph Demo</h1>
+    <canvas id="mycanvas" width="800" height="600"></canvas>
+    <script>
+        var graph = new LiteGraph.LGraph();
+        var canvas = new LiteGraph.LGraphCanvas("#mycanvas", graph);
+        var node_const = LiteGraph.createNode("basic/const");
+        node_const.pos = [200, 200];
+        graph.add(node_const);
+        node_const.setValue(4.5);
+        graph.start();
+    </script>
+</body>
+</html>
