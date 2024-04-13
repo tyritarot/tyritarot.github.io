@@ -91,9 +91,11 @@ scope = ['https://spreadsheets.google.com/feeds', 'https://www.googleapis.com/au
 creds = ServiceAccountCredentials.from_json_keyfile_name('assi-google-credentials.json', scope)
 
 import os
+"""
 from google.colab import userdata
 
 os.environ['OPENAI_API_KEY'] = userdata.get('OPENAI_API_KEY')
+"""
 
 from langchain_openai import ChatOpenAI
 
