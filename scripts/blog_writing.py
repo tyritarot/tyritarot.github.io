@@ -49,13 +49,13 @@ import os, sys
  
 SHEET_NAME = "tyri sns(응답)"
 
-KEY_JSON = os.getenv("GOOGLE_KEY_JSON")
+KEY_JSON = os.environ["GOOGLE_KEY_JSON"]
 
 #GITHUB_REPO_NAME = "tykimos/tykimos.github.io"
 GITHUB_REPO_NAME = "tyritarot/tyritarot.github.io"
 GITHUB_USER = "tyritarot"
  
-GT_TOKEN_KEY = os.getenv("GT_TOKEN_KEY")
+GT_TOKEN_KEY = os.environ["GT_TOKEN_KEY"]
 
 PROCESS_FLOW = ["blog_content_generation", "github_upload"]
 STATUS_FLOW = ["fetching", "running", "done"]
@@ -63,6 +63,7 @@ STATUS_FLOW = ["fetching", "running", "done"]
 print("env == start ==")
 print("KEY_JSON : ", KEY_JSON )
 print("GT_TOKEN_KEY : ", GT_TOKEN_KEY )
+print("OPENAI_API_KEY : ", os.environ['OPENAI_API_KEY'])
 print("env == end ==")
 
 """# 초기 셋팅"""
