@@ -60,6 +60,11 @@ GT_TOKEN_KEY = os.getenv("GT_TOKEN_KEY")
 PROCESS_FLOW = ["blog_content_generation", "github_upload"]
 STATUS_FLOW = ["fetching", "running", "done"]
 
+print("env == start ==")
+print("KEY_JSON : ", KEY_JSON )
+print("GT_TOKEN_KEY : ", GT_TOKEN_KEY )
+print("env == end ==")
+
 """# 초기 셋팅"""
 
 import time
