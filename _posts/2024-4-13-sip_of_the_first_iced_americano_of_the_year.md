@@ -8,9 +8,9 @@ comments: true
 image: http://tyritarot.github.io/warehouse/2024/2024-4-13-sip_of_the_first_iced_americano_of_the_year_title.jpeg
 ---
 
-올해 첫 아이스 아메리카노를 즐기는 순간이에요 🥤💋 이 순간을 기록하려고 했는데, 예상보다 훨씬 더 아름답게 담긴 것 같아요. 멋진 커피의 향기와 함께, 이 시원한 순간을 나눌 수 있어 기뻐요. 그냥 일상의 작은 행복이지만, 이런 순간들이 모여 제게 큰 기쁨을 줘요. 여러분과 함께 나누고 싶은 순간이었어요. 🥰
+올해 첫 아이스 아메리카노를 즐기는 순간이에요 🥤💋 일상의 작은 변화일 수도 있지만, 진한 커피 향기와 함께 이 시원한 순간을 나눌 수 있어 행복해요. 🥰 #올해첫아이스아메리카노 #커피스타그램 #일상의행복 #커피한잔의여유 #진한커피향기
 
-Here's to the first iced americano of the year 🥤💋 I tried to capture this moment, and it turned out to be even more beautiful than I expected. I'm glad to share this cool moment with the wonderful scent of coffee. It's just a small happiness in everyday life, but these moments add up to bring me great joy. It was a moment I wanted to share with you all. 🥰
+Enjoying my first iced Americano of the year! 🥤💋 It might just be a small change in my daily routine, but being able to share this cool moment with the rich aroma of coffee makes me happy. 🥰 #FirstIcedAmericano #CoffeeLovers #DailyHappiness #CoffeeTime #RichCoffeeAroma
 
 ### Dalle Prompt
 
