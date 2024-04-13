@@ -24,6 +24,7 @@ jobs:
           pip install openai
           pip install gspread
           pip install tqdm
+          pip install langchain
           pip install langchain-core
           pip install langchain_openai
           pip install langchain-community
