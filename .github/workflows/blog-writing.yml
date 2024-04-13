@@ -31,5 +31,8 @@ jobs:
       - name: Generate content
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          GOOGLE_KEY_JSON: ${{ secrets.GOOGLE_KEY_JSON }}
+          GT_TOKEN_KEY: ${{ secrets.GT_TOKEN_KEY }}
+
         run: |
           python scripts/blog_writing.py
