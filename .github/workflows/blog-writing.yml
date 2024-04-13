@@ -22,6 +22,7 @@ jobs:
           pip install google-api-python-client google-auth-httplib2 google-auth-oauthlib
           pip install gspread
           pip install openai
+          pip install pandas
           pip install gspread
           pip install tqdm
           pip install langchain
