@@ -88,11 +88,16 @@ start_time = time.time()  # Get the current time before execution
 prev_time = start_time
 
 import json
-
+'''
 # JSON 파일로 저장
 with open('assi-google-credentials.json', 'w') as json_file:
   json.dump(KEY_JSON, json_file)
+'''
 
+# 문자열 데이터를 파일에 쓰기
+with open('assi-google-credentials.json', 'w') as file:
+    file.write(KEY_JSON)
+    
 print("JSON 파일이 저장되었습니다.")
 
 from oauth2client.service_account import ServiceAccountCredentials
