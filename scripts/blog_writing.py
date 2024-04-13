@@ -26,28 +26,8 @@ Original file is located at
 """
 
 import os, sys
-from google.colab import drive
-drive.mount('/content/drive')
 
-venv_path = '/content/venv'
-os.symlink('/content/drive/My Drive/tykimos/venv', venv_path)
-sys.path.insert(0, venv_path)
-
-# Commented out IPython magic to ensure Python compatibility.
-# """
-# %%shell
-# 
-# pip install --target=$venv_path --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
-# pip install --target=$venv_path gspread
-# pip install --target=$venv_path tqdm
-# pip install --target=$venv_path langchain-core
-# pip install --target=$venv_path langchain
-# pip install --target=$venv_path langchain_openai
-# pip install --target=$venv_path langchain-community
-# """
-
-"""## 키 할당 받는 법
-
+"""
 1. Google Cloud Console에 접속
 1. 사용자 인증 정보 메뉴 클릭
 1. 사용자 인증 정보 만들기 클릭
@@ -74,7 +54,7 @@ KEY_JSON = os.getenv("GOOGLE_KEY_JSON")
 #GITHUB_REPO_NAME = "tykimos/tykimos.github.io"
 GITHUB_REPO_NAME = "tyritarot/tyritarot.github.io"
 GITHUB_USER = "tyritarot"
-
+ 
 GT_TOKEN_KEY = os.getenv("GT_TOKEN_KEY")
 
 PROCESS_FLOW = ["blog_content_generation", "github_upload"]

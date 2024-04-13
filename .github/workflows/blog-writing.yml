@@ -1,6 +1,8 @@
 name: blog-writing
 run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
-on: [push]
+on: 
+  workflow_dispatch:
+
 jobs:
   blog-writing:
     runs-on: ubuntu-latest
@@ -16,6 +18,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
+          pip install --upgrade google-api-python-client oauth2client
           pip install google-api-python-client google-auth-httplib2 google-auth-oauthlib
           pip install gspread
           pip install openai
@@ -29,4 +32,4 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: |
-          python blog_writing.py
+          python scripts/blog_writing.py
