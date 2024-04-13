@@ -47,7 +47,7 @@ import os, sys
 1. 구글 양식 연동 폴더 - 서비스 계정 편집자 공유
 """ 
  
-SHEET_NAME = "tyri sns(응답)"
+SHEET_NAME = "tyri blog writing(응답)"
 
 KEY_JSON = os.environ["GOOGLE_KEY_JSON"]
 
