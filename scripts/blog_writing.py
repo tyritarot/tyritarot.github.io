@@ -68,6 +68,14 @@ print("env == end ==")
 
 """# 초기 셋팅"""
 
+GOOGLE_KEY_JSON
+google-keys
+15 hours ago
+GT_TOKEN_KEY
+google-keys
+15 hours ago
+OPENAI_API_KEY
+
 import time
 
 start_time = time.time()  # Get the current time before execution
@@ -309,6 +317,7 @@ def gen_topic_id(date, topic):
     topic = topic.replace('·', '_')
     topic = topic.replace('-', '_')
     topic = topic.replace("'", '_')
+    topic = topic.replace(",", '_')
 
     return f"{date_str}-{topic.lower()}"
 
