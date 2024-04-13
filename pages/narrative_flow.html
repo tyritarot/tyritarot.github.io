@@ -1,8 +1,13 @@
+---
+layout: default
+title: narrative_flow
+---
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Tyri's Activities with Dates</title>
+    <title>Tyri's Narrative Flow</title>
     <script src="/assets/js/litegraph.js"></script>
 </head>
 <body>
@@ -32,7 +37,7 @@
 
         var last_node = null;
         activities.forEach(function(activity, index) {
-            var node = LiteGraph.createNode("basic/const");
+            var node = LiteGraph.createNode("basic/watch");
             node.title = activity.date + ": " + activity.title;
             node.pos = [50, index * 100]; // 각 노드 사이의 간격을 조정
             graph.add(node);
