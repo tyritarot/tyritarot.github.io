@@ -1,32 +1,48 @@
----
-layout: default
-title: narrative_flow
----
-
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-	<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/litegraph.css">
+    <meta charset="UTF-8">
+    <title>Tyri's Activities with Dates</title>
     <script src="{{ site.baseurl }}/assets/js/litegraph.js"></script>
 </head>
-<body style='width:100%; height:100%'>
-<canvas id='mycanvas' width='1024' height='720' style='border: 1px solid'></canvas>
-<script>
-var graph = new LGraph();
+<body>
+    <canvas id="mycanvas" width="1200" height="1000" style="border: 1px solid;"></canvas>
+    <script>
+        var graph = new LiteGraph.LGraph();
+        var canvas = new LiteGraph.LGraphCanvas("#mycanvas", graph);
 
-var canvas = new LGraphCanvas("#mycanvas", graph);
+        var activities = [
+            { date: "13 Apr 2024", title: "Sip of the First Iced Americano of the Year" },
+            { date: "11 Apr 2024", title: "A Day in the Studio" },
+            { date: "09 Apr 2024", title: "Passionate Monday - Journey of Making Dreams a Reality" },
+            { date: "09 Apr 2024", title: "Spring Day Picnic Among Cherry Blossoms" },
+            { date: "07 Apr 2024", title: "Shining Moment Among Cherry Blossoms" },
+            { date: "06 Apr 2024", title: "Favorite Pickleball Photo" },
+            { date: "05 Apr 2024", title: "Recently Obsessed with Pickleball" },
+            { date: "19 Mar 2024", title: "Boarding the car for the race" },
+            { date: "18 Mar 2024", title: "My Day at the Racing Circuit" },
+            { date: "15 Mar 2024", title: "Study Day Bliss: Surrounded by Papers" }
+        ];
 
-var node_const = LiteGraph.createNode("basic/const");
-node_const.pos = [200,200];
-graph.add(node_const);
-node_const.setValue(4.5);
+        activities.sort(function(a, b) {
+            var dateA = new Date(a.date + " UTC");
+            var dateB = new Date(b.date + " UTC");
+            return dateA - dateB;
+        });
 
-var node_watch = LiteGraph.createNode("basic/watch");
-node_watch.pos = [700,200];
-graph.add(node_watch);
+        var last_node = null;
+        activities.forEach(function(activity, index) {
+            var node = LiteGraph.createNode("basic/const");
+            node.title = activity.date + ": " + activity.title;
+            node.pos = [50, index * 100]; // 각 노드 사이의 간격을 조정
+            graph.add(node);
+            if (last_node) {
+                last_node.connect(0, node, 0); // 이전 노드와 연결
+            }
+            last_node = node;
+        });
 
-node_const.connect(0, node_watch, 0 );
-
-graph.start()
-</script>
+        graph.start();
+    </script>
 </body>
 </html>
