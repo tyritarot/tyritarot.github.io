@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About  (Virtual Influencer)
+title: About  (AI Influencer)
 permalink: /about
 comments: true
 ---
