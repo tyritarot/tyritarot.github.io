@@ -1,52 +1,147 @@
----
-layout: default
-title: narrative_flow
----
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Tyri's Narrative Flow</title>
-    <script src="/assets/js/litegraph.js"></script>
+    <title>Tyri's Activities with Dates</title>
+    <script src="litegraph.js"></script>
+    <link rel="stylesheet" type="text/css" href="litegraph.css">
 </head>
 <body>
-    <canvas id="mycanvas" width="100%" height="600"></canvas>
+    <canvas id="mycanvas" width="1200" height="1200" style="border: 1px solid;"></canvas>
     <script>
         var graph = new LiteGraph.LGraph();
         var canvas = new LiteGraph.LGraphCanvas("#mycanvas", graph);
+    
+        function DayNode() {
+            this.addInput("Prev Act", "string", { dir: LiteGraph.UP });
+            this.addOutput("Next Act", "string", { dir: LiteGraph.RIGHT });
+            this.properties = { parameter: 0 };
+        }
+    
+        function ActivityNode() {
+            this.addInput("Day","string", { dir: LiteGraph.LEFT });
+            this.addOutput("Prompt","string", { dir: LiteGraph.RIGHT });
+            this.addOutput("Next Day","string", { dir: LiteGraph.RIGHT });
+            this.properties = { parameter: 0 };
+        }
+    
+        function ImageNode() {
+            this.addInput("Prompt", "string", { dir: LiteGraph.LEFT });
+            this.properties = { imageUrl: "" };
+            this.image = null; // To hold the actual image object
+                
+            this.size = [100, 100]; // Initial size before image load.
+        
+            this.loadImage = function(url) {
+                if (!url) return;
+                var img = new Image();
+                img.crossOrigin = "Anonymous";  // Handle potential CORS issues.
+                img.src = url;
+                img.onload = () => {
+                    this.image = img;
+                    var aspectRatio = img.width / img.height;
+                    var max_size = 128;
+                    this.size[0] = aspectRatio >= 1 ? max_size : max_size * aspectRatio;
+                    this.size[1] = aspectRatio >= 1 ? max_size / aspectRatio : max_size;
+                    this.setDirtyCanvas(true, true);
+                };
+            };
+        
+            this.onPropertyChanged = function(name, value) {
+                if (name === "imageUrl") {
+                    this.loadImage(value);
+                }
+                return true;
+            };
+        
+            this.onDrawBackground = function(ctx) {
+                if (this.image) {
+                    ctx.drawImage(this.image, 0, 0, this.size[0], this.size[1]);
+                }
+            };
+        }
 
+        LiteGraph.registerNodeType("basic/day", DayNode);        
+        LiteGraph.registerNodeType("basic/activity", ActivityNode);
+        LiteGraph.registerNodeType("basic/image", ImageNode);
+        
         var activities = [
-            { date: "13 Apr 2024", title: "Sip of the First Iced Americano of the Year" },
-            { date: "11 Apr 2024", title: "A Day in the Studio" },
-            { date: "09 Apr 2024", title: "Passionate Monday - Journey of Making Dreams a Reality" },
-            { date: "09 Apr 2024", title: "Spring Day Picnic Among Cherry Blossoms" },
-            { date: "07 Apr 2024", title: "Shining Moment Among Cherry Blossoms" },
-            { date: "06 Apr 2024", title: "Favorite Pickleball Photo" },
-            { date: "05 Apr 2024", title: "Recently Obsessed with Pickleball" },
-            { date: "19 Mar 2024", title: "Boarding the car for the race" },
-            { date: "18 Mar 2024", title: "My Day at the Racing Circuit" },
-            { date: "15 Mar 2024", title: "Study Day Bliss: Surrounded by Papers" }
+            { date: "2024-04-13", category: "Coffee", title: "Sip of the First Iced Americano of the Year", imageUrl: "2024-4-13-sip_of_the_first_iced_americano_of_the_year_title.jpeg" },
+            { date: "2024-04-11", category: "Studio", title: "A Day in the Studio", imageUrl: "2024-4-10-a_day_in_the_studio_title.jpeg" },
+            { date: "2024-04-09", category: "Motivation", title: "Passionate Monday - Journey of Making Dreams a Reality", imageUrl: "2024-4-9-tyri_s_passionate_monday___turning_dreams_into_reality_title.jpeg" },
+            { date: "2024-04-09", category: "Picnic", title: "Spring Day Picnic Among Cherry Blossoms", imageUrl: "2024-4-8-spring_day_picnic_among_cherry_blossoms_title.jpeg" },
+            { date: "2024-04-07", category: "Picnic", title: "Shining Moment Among Cherry Blossoms", imageUrl: "2024-4-7-shining_in_the_cherry_blossoms_and_just_me_title.jpg" },
+            { date: "2024-04-06", category: "Pickleball", title: "Favorite Pickleball Photo", imageUrl: "2024-4-6-taking_a_pickleball_profile_picture_title.jpg" },
+            { date: "2024-04-05", category: "Pickleball", title: "Recently Obsessed with Pickleball", imageUrl: "2024-4-4-deeply_immersed_in_pickleball_nowadays_title.jpg" },
+            { date: "2024-03-19", category: "Racing", title: "Boarding the car for the race", imageUrl: "2024-3-19-boarding_the_car_for_the_race_title.jpeg" },
+            { date: "2024-03-19", category: "Racing", title: "Open Sora: First-Person View of a Racing Car", imageUrl: "2024-3-19-open_sora_:_first-person_view_of_a_racing_car_title.gif" },
+            { date: "2024-03-18", category: "Racing", title: "My Day at the Racing Circuit", imageUrl: "2024-3-18-my_day_at_the_racing_circuit_title.jpeg" },
+            { date: "2024-03-15", category: "Study", title: "Study Day Bliss: Surrounded by Papers", imageUrl: "2024-3-15-study_day_bliss:_surrounded_by_papers_title.jpeg" },
+            { date: "2024-03-09", category: "Baseball", title: "Sunny Day Baseball Cheers", imageUrl: "2024-3-9-sunny_day_baseball_cheers_title.jpeg" },
+            { date: "2024-03-09", category: "Programming", title: "The Night Owl Programmer", imageUrl: "2024-3-9-the_night_owl_programmer_title.jpeg" },
+            { date: "2024-03-08", category: "Fitness", title: "The Final Sprint to Achieve 10,000 Steps", imageUrl: "2024-3-8-the_final_sprint_to_achieve_10,000_steps._title.jpeg" },
+            { date: "2024-03-07", category: "Health", title: "A Woman Checking Her Step Count While Drinking Coffee in a Cafe", imageUrl: "2024-3-7-a_woman_checking_her_step_count_while_drinking_coffee_in_a_cafe_title.jpeg" },
+            { date: "2024-03-07", category: "Commuting", title: "Seoul Morning Commute Woman", imageUrl: "2024-3-7-seoul_morning_commute_woman_title.jpeg" },
+            { date: "2024-03-06", category: "Fitness", title: "Tired Refreshed Woman Post Workout", imageUrl: "2024-3-6-tired_refreshed_woman_post_workout_title.jpeg" }
         ];
 
-        activities.sort(function(a, b) {
-            var dateA = new Date(a.date + " UTC");
-            var dateB = new Date(b.date + " UTC");
-            return dateA - dateB;
-        });
+        var activitiesByDate = {};
 
-        var last_node = null;
-        activities.forEach(function(activity, index) {
-            var node = LiteGraph.createNode("basic/watch");
-            node.title = activity.date + ": " + activity.title;
-            node.pos = [50, index * 100]; // 각 노드 사이의 간격을 조정
-            graph.add(node);
-            if (last_node) {
-                last_node.connect(0, node, 0); // 이전 노드와 연결
+        activities.forEach(function(activity) {
+            if (!activitiesByDate[activity.date]) {
+                activitiesByDate[activity.date] = [];
             }
-            last_node = node;
+            var imagePath = "http://tyritarot.github.io/warehouse/2024/" + activity.imageUrl;
+            activitiesByDate[activity.date].push({
+                category: activity.category,
+                description: activity.title,
+                imageUrl: imagePath
+            });
         });
+        
+        var dates = Object.keys(activitiesByDate).sort(function(a, b) {
+            return new Date(b) - new Date(a);  // Sort dates in descending order
+        });
+    
+        var lastActivityNode = null;
+        var yPos = 50;
+        dates.forEach(function(date, index) {
+            var dayNode = LiteGraph.createNode("basic/day");
+            dayNode.title = date;
+            dayNode.pos = [50, yPos];
+            graph.add(dayNode);
 
+            var activities = activitiesByDate[date];
+            var xOffset = 250;
+            var lastNodeInDay = null;
+    
+            activities.forEach(function(activity, idx) {
+                var activityNode = LiteGraph.createNode("basic/activity");
+                activityNode.title = activity.description;
+                
+                activityNode.pos = [xOffset, yPos + idx * 200];  // Increased spacing
+                activityNode.size = [350, 50];
+                graph.add(activityNode);
+                dayNode.connect(0, activityNode, 0);
+    
+                var imageNode = LiteGraph.createNode("basic/image");
+                imageNode.properties.imageUrl = activity.imageUrl;
+                imageNode.loadImage(activity.imageUrl);  // Load image on node creation
+                imageNode.pos = [xOffset + 400, yPos + idx * 200];
+                graph.add(imageNode);
+                activityNode.connect(0, imageNode, 0);
+
+                lastNodeInDay = activityNode;
+            });
+
+            if (lastActivityNode) {
+                lastNodeInDay.connect(1, lastActivityNode, 0);  // Connect the last node of the current day to the first node of the previous day
+            }
+            lastActivityNode = dayNode;
+    
+            yPos += (activities.length + 1) * 150;  // Adjust y position increment based on node size
+        });
+    
         graph.start();
     </script>
 </body>
