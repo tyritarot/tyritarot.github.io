@@ -29,6 +29,7 @@ jobs:
           pip install langchain-core
           pip install langchain_openai
           pip install langchain-community
+          pip install Pillow
 
       - name: Generate content
         env:

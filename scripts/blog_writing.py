@@ -189,9 +189,25 @@ def download_file_from_gdrive(url, topic_id, creds):
     with open(new_filename, 'wb') as f:
         f.write(fh.getbuffer())
 
+    # 여기서부터 webp 파일인 경우 jpg로 변환하는 코드를 추가합니다.
+    if file_extension.lower() == 'webp':
+        # 파일을 이미지 객체로 열기
+        with Image.open(new_filename) as webp_image:
+            # RGB 모드로 변환
+            if webp_image.mode == 'RGBA':
+                webp_image = webp_image.convert('RGB')
+            # 파일 이름 변경 (.webp를 .jpg로)
+            jpg_filename = f"{topic_id}_title.jpg"
+            # JPG로 저장
+            webp_image.save(jpg_filename, 'JPEG')
+        # 변환된 파일 이름을 반환
+        new_filename = jpg_filename
+    
     return new_filename
 
 import json
+from PIL import Image
+import io
 
 def parse_json(json_str):
     try:
