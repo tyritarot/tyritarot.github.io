@@ -239,8 +239,9 @@ def gen_daily_life_blog_content_body(sketch, prompt):
 {{
     "subtitle" : "(Write in English)"
     "ko" : "",
+    "ko_tag" : ["", "", ""]
     "en" : "",
-    "tag" : ["", ""]
+    "en_tag" : ["", "", ""]
 
 }}
 """
@@ -288,14 +289,14 @@ def gen_daily_life_blog_content_body(sketch, prompt):
         content_subtitle = gen_content[:10]
     else:
         content_subtitle = gen_content_json['subtitle']
-        content_body += gen_content_json['ko']
+        content_body += gen_content_json['ko'] + " " + " ".join(gen_content_json['ko_tag'])
         content_body += '\n\n'
-        content_body += gen_content_json['en']
+        content_body += gen_content_json['en'] + " " + " ".join(gen_content_json['en_tag'])
         content_body += '\n\n'
         content_body += '### Dalle Prompt'
         content_body += '\n\n'
         content_body += prompt
-        content_tag = " ".join(gen_content_json['tag'])
+        content_tag = " ".join(gen_content_json['ko_tag']) + " " + " ".join(gen_content_json['en_tag'])
 
     return content_subtitle, content_body, content_tag
 
