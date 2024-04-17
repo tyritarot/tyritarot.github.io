@@ -289,9 +289,9 @@ def gen_daily_life_blog_content_body(sketch, prompt):
         content_subtitle = gen_content[:10]
     else:
         content_subtitle = gen_content_json['subtitle']
-        content_body += gen_content_json['ko'] + " " + " ".join(gen_content_json['ko_tag'])
+        content_body += gen_content_json['ko'] + " " + " #".join(gen_content_json['ko_tag'])
         content_body += '\n\n'
-        content_body += gen_content_json['en'] + " " + " ".join(gen_content_json['en_tag'])
+        content_body += gen_content_json['en'] + " " + " #".join(gen_content_json['en_tag'])
         content_body += '\n\n'
         content_body += '### Dalle Prompt'
         content_body += '\n\n'
