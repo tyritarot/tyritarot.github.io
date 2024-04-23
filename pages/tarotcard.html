@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tarot Card Sprites</title>
+<style>
+    #spriteContainer {
+        white-space: nowrap; /* 가로로 나열되도록 설정 */
+        overflow-x: auto; /* 스크롤 가능하도록 설정 */
+        width: calc(165px * 3); /* 가로 스크롤 영역 설정 */
+    }
+
+    .card {
+        width: 152px;
+        height: 212px;
+        display: inline-block;
+        /* background-image: url('your_sprite_sheet_url_here'); */
+        background-size: auto;
+        /* 지정된 스프라이트 시트 이미지의 URL을 여기에 직접 입력하세요 */
+        background-image: url('sprite-card.png'); 
+        margin-right: 10px; /* 각 카드 사이의 간격 설정 */
+    }
+</style>
+</head>
+<body>
+<div id="spriteContainer">
+</div>
+<script>
+  // Function to generate random integers
+  function getRandomInt(min, max) {
+    return Math.floor(Math.random() * (max - min + 1)) + min;
+  }
+
+  // Function to create and display card sprites
+  function displayCardSprites() {
+    const container = document.getElementById('spriteContainer');
+    container.innerHTML = '';
+    const spriteSheetWidth = 152; // Width of each card sprite
+    const spriteSheetHeight = 212; // Height of each card sprite
+    const numColumns = 5; // Number of columns in the grid
+    const numRows = 3; // Number of rows in the grid
+    const totalSprites = 3; // Number of sprites to display
+    const spriteSheetUrl = 'sprite-card.png'; // URL of your sprite sheet
+    const animationIntervals = []; // Array to hold animation interval IDs
+
+    // Function to update the sprite
+    function updateSprite(sprite) {
+      const currentIndex = animationIntervals.findIndex(obj => obj.sprite === sprite);
+      const spriteSheetWidth = 152; // Width of each card sprite
+      const spriteSheetHeight = 212; // Height of each card sprite
+      const numColumns = 5; // Number of columns in the grid
+      const numRows = 3; // Number of rows in the grid
+      sprite.style.backgroundPosition = `-${140 + getRandomInt(0, numColumns - 1) * spriteSheetWidth}px -${212 + getRandomInt(0, numRows - 1) * spriteSheetHeight}px`;
+    }
+
+    // Start the animation for a specific sprite
+    function startAnimation(sprite) {
+      const intervalId = setInterval(() => updateSprite(sprite), 150);
+      animationIntervals.push({ sprite, intervalId });
+    }
+
+    // Stop the animation for a specific sprite
+    function stopAnimation(sprite) {
+      const currentIndex = animationIntervals.findIndex(obj => obj.sprite === sprite);
+      if (currentIndex !== -1) {
+        clearInterval(animationIntervals[currentIndex].intervalId);
+        animationIntervals.splice(currentIndex, 1);
+      }
+    }
+
+    // Create and display card sprites
+    for (let i = 0; i < totalSprites; i++) {
+      const sprite = document.createElement('div');
+      sprite.classList.add('card');
+      sprite.style.backgroundPosition = `-${140 + getRandomInt(0, numColumns - 1) * spriteSheetWidth}px -${212 + getRandomInt(0, numRows - 1) * spriteSheetHeight}px`;
+      container.appendChild(sprite);
+      startAnimation(sprite);
+
+      // Add click event listener to stop the animation when a card is clicked
+      sprite.addEventListener('click', () => stopAnimation(sprite));
+    }
+  }
+
+  // Call the function to display card sprites when the page loads
+  window.onload = displayCardSprites;
+</script>
+</body>
+</html>
