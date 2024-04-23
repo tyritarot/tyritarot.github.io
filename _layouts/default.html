@@ -31,8 +31,8 @@
         /* background-image: url('your_sprite_sheet_url_here'); */
         background-size: auto;
         /* 지정된 스프라이트 시트 이미지의 URL을 여기에 직접 입력하세요 */
-        background-image: url('{{ site.baseurl }}/assets/images/sprite-card.png'); 
-        margin-right: 3px; /* 각 카드 사이의 간격 설정 */
+        background-image: url('{{ site.baseurl }}/assets/images/sprite-card_512.png'); 
+        margin-right: 0px; /* 각 카드 사이의 간격 설정 */
     }
 </style>
 </head>
@@ -239,11 +239,11 @@ ga('send', 'pageview');
         // Function to update the sprite
         function updateSprite(sprite) {
         const currentIndex = animationIntervals.findIndex(obj => obj.sprite === sprite);
-        const spriteSheetWidth = 152; // Width of each card sprite
-        const spriteSheetHeight = 212; // Height of each card sprite
+        const spriteSheetWidth = 76; // Width of each card sprite
+        const spriteSheetHeight = 106; // Height of each card sprite
         const numColumns = 5; // Number of columns in the grid
         const numRows = 3; // Number of rows in the grid
-        sprite.style.backgroundPosition = `-${140 + getRandomInt(0, numColumns - 1) * spriteSheetWidth}px -${212 + getRandomInt(0, numRows - 1) * spriteSheetHeight}px`;
+        sprite.style.backgroundPosition = `-${70 + getRandomInt(0, numColumns - 1) * spriteSheetWidth}px -${106 + getRandomInt(0, numRows - 1) * spriteSheetHeight}px`;
         }
 
         // Start the animation for a specific sprite
