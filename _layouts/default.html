@@ -24,9 +24,9 @@
         width: calc(165px * 3); /* 가로 스크롤 영역 설정 */
     }
 
-    .card {
-        width: 152px;
-        height: 212px;
+    .tarot_card {
+        width: 76px; /* 타로 카드의 가로 크기를 50%로 줄임 */
+        height: 106px; /* 타로 카드의 세로 크기를 50%로 줄임 */
         display: inline-block;
         /* background-image: url('your_sprite_sheet_url_here'); */
         background-size: auto;
@@ -129,20 +129,6 @@ ga('send', 'pageview');
             <!-- 여기에 Tarot Card Sprites를 표시하는 코드를 추가하세요 -->
         </div>
     </div>
-</div>
-        
-<!-- Site Title
-================================================== -->
-<div class="mainheading">
-    <h1 class="sitetitle">{{ site.name }}</h1>
-    <p class="lead">
-        {{ site.description }}
-    </p>
-</div>
-
-<!-- Tarot Card Sprites
-================================================== -->
-<div id="spriteContainer">
 </div>
 
 <!-- Content
@@ -278,7 +264,7 @@ ga('send', 'pageview');
         // Create and display card sprites
         for (let i = 0; i < totalSprites; i++) {
         const sprite = document.createElement('div');
-        sprite.classList.add('card');
+        sprite.classList.add('tarot_card');
         sprite.style.backgroundPosition = `-${140 + getRandomInt(0, numColumns - 1) * spriteSheetWidth}px -${212 + getRandomInt(0, numRows - 1) * spriteSheetHeight}px`;
         container.appendChild(sprite);
         startAnimation(sprite);
