@@ -17,9 +17,7 @@
         height: 106px; /* 타로 카드의 세로 크기를 50%로 줄임 */
         display: inline-block;
         /* background-image: url('your_sprite_sheet_url_here'); */
-        background-size: 512px 512px; /* 스프라이트 시트의 전체 크기 */
         /* 지정된 스프라이트 시트 이미지의 URL을 여기에 직접 입력하세요 */
-        background-image: url('sprite-card_512.png'); 
         margin-right: 0px; /* 각 카드 사이의 간격 설정 */
     }
 
@@ -66,16 +64,18 @@
     
         // Function to update the sprite
         function updateSprite(sprite) {
-            if (Math.random() < 0.1) { // 10% chance to switch to the special image
+            if (Math.random() < 0.1) 
+            { // 10% chance to switch to the special image
                 sprite.style.backgroundImage = `url(${specialImage})`;
-                sprite.style.backgroundSize = 'cover'
-            } else {
-                sprite.style.backgroundSize = '512px 512px'
+                sprite.style.backgroundPosition = '0px 0px';
+            }
+            else 
+            {
                 sprite.style.backgroundImage = `url(${spriteSheetUrl})`;
                 sprite.style.backgroundPosition = `-${70 + getRandomInt(0, numColumns - 1) * spriteSheetWidth}px -${106 + getRandomInt(0, numRows - 1) * spriteSheetHeight}px`;
             }
         }
-    
+
         // Start the animation for a specific sprite
         function startAnimation(sprite) {
             const intervalId = setInterval(() => updateSprite(sprite), 200);
@@ -93,10 +93,8 @@
         for (let i = 0; i < totalSprites; i++) {
             const sprite = document.createElement('div');
             sprite.classList.add('tarot_card');
-            sprite.style.backgroundPosition = `-${70 + getRandomInt(0, numColumns - 1) * spriteSheetWidth}px -${106 + getRandomInt(0, numRows - 1) * spriteSheetHeight}px`;
             container.appendChild(sprite);
             startAnimation(sprite);
-    
             sprite.addEventListener('click', () => stopAnimation(sprite));
         }
     }
