@@ -19,7 +19,6 @@ import {FilesetResolver, LlmInference} from 'https://cdn.jsdelivr.net/npm/@media
 const input = document.getElementById('input');
 const output = document.getElementById('output');
 const submit = document.getElementById('submit');
-const status_submit = document.getElementById('status_submit');
 
 const modelFileName = 'https://github.com/tykimos/tykimos.github.io/raw/b8f32475748e6d782180f8de22500e40af22045f/storage/gemma-2b-it-gpu-int4.bin'; /* Update the file name */
 
@@ -52,8 +51,8 @@ async function runDemo() {
     llmInference.generateResponse(input.value, displayPartialResults);
   };
 
-  status_submit.value = 'loading...'
-  
+  submit.value = 'Loading...'
+
   LlmInference
       .createFromOptions(genaiFileset, {
         baseOptions: {modelAssetPath: modelFileName},
@@ -71,7 +70,7 @@ async function runDemo() {
       .then(llm => {
         llmInference = llm;
         submit.disabled = false;
-        status_submit.value = 'ready'
+        submit.value = 'Ask'
       })
       .catch(() => {
         alert('Failed to initialize the task.');
