@@ -144,30 +144,27 @@ ga('send', 'pageview');
 <div class="container">
     <div class="row">
         <!-- 사이트 제목 -->
-        <div class="col-md-6">
+        <div class="col-md-3">
             <div class="mainheading">
                 <h1 class="sitetitle">{{ site.name }}</h1>
                 <p class="lead">{{ site.description }}</p>
             </div>
         </div>
-    </div>
-    <div class="row">
         <!-- 질문 입력 폼 -->
-        <div class="col-md-6">
+        <div class="col-md-3">
             <div class="question-form">
                 <input type="text" id="questionInput" placeholder="Enter your question here..." class="form-control">
                 <button class="refreshButton" id="revealSubmit" onclick="askQuestion()">Ask</button>
             </div>
         </div>
-
         <!-- 카드 스프라이트 셔플 버튼 -->
-        <div class="col-md-6">
+        <div class="col-md-3">
             <div id="spriteContainer"></div>
             <button class="refreshButton" onclick="displayCardSprites()">Reshuffle</button>        
         </div>
 
         <!-- 타로 카드 결과 출력 -->
-        <div class="col-md-6">
+        <div class="col-md-3">
             <div id="interpretOutput" class="tarot-output">
                 <!-- 결과가 표시될 곳 -->
             </div>
