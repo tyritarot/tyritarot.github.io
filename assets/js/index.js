@@ -16,9 +16,9 @@
 
 import {FilesetResolver, LlmInference} from 'https://cdn.jsdelivr.net/npm/@mediapipe/tasks-genai';
 
-const input = document.getElementById('input');
-const output = document.getElementById('output');
-const submit = document.getElementById('submit');
+const input = document.getElementById('questionInput');
+const output = document.getElementById('interpretOutput');
+const submit = document.getElementById('revealSubmit');
 
 const modelFileName = 'https://github.com/tykimos/tykimos.github.io/raw/b8f32475748e6d782180f8de22500e40af22045f/storage/gemma-2b-it-gpu-int4.bin'; /* Update the file name */
 
