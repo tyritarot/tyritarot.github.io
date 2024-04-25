@@ -216,7 +216,7 @@ def parse_json(json_str):
         print("Error decoding JSON:", e)
         return None
 
-def gen_daily_life_blog_content_body(sketch, prompt):
+def gen_daily_life_blog_content_body(sketch, model, prompt):
 
     content_body = ""
     system_prompt = """사용자가 입력한 sketch와 dalle prompt를 기반으로 SNS 용으로 아래 가이드에 따라 작성해. 모든 응답은 JSON으로 작성한다.
@@ -248,14 +248,14 @@ def gen_daily_life_blog_content_body(sketch, prompt):
 
     prompt_template = ChatPromptTemplate.from_messages(
         [("system", system_prompt),
-        ("human", "sketch : {sketch}\n\ndalle prompt : {prompt}")]
+        ("human", "sketch : {sketch}\n\{model} prompt : {prompt}")]
     )
 
     chain = (prompt_template
             | chat_model
             | StrOutputParser())
 
-    gen_content = chain.invoke({"sketch" : sketch, "prompt": prompt})
+    gen_content = chain.invoke({"sketch" : sketch, "model" : model, "prompt": prompt})
 
     # 최대 재시도 횟수 설정
     max_retries = 3
@@ -293,7 +293,7 @@ def gen_daily_life_blog_content_body(sketch, prompt):
         content_body += '\n\n'
         content_body += gen_content_json['en'] + " #" + " #".join(gen_content_json['en_tag'])
         content_body += '\n\n'
-        content_body += '### Dalle Prompt'
+        content_body += '### ' + model + ' Prompt'
         content_body += '\n\n'
         content_body += prompt
         content_tag = " ".join(gen_content_json['ko_tag']) + " " + " ".join(gen_content_json['en_tag'])
@@ -310,11 +310,11 @@ gen_content_type_dict = {
     "daily life" : gen_daily_life_blog_content_body,
 }
 
-def gen_content_body(content_type, sketch, prompt):
+def gen_content_body(content_type, sketch, model, prompt):
 
     print("gen_content_type_dict : " + content_type)
 
-    content_subtitle, content_body, content_tag = gen_content_type_dict[content_type](sketch, prompt)
+    content_subtitle, content_body, content_tag = gen_content_type_dict[content_type](sketch, model, prompt)
 
     return content_subtitle, content_body, content_tag
 
@@ -337,7 +337,7 @@ def proc_content_generation(item):
     datetime_str = datetime_object.strftime('%Y-%-m-%-d %H:%M:%S')
     year_str = datetime_object.strftime('%Y')
 
-    content_subtitle, content_body, content_tag = gen_content_body(item['type'], item['sketch'], item['prompt'])
+    content_subtitle, content_body, content_tag = gen_content_body(item['type'], item['sketch'], item['model'], item['prompt'])
 
     topic_id = gen_topic_id(datetime_object, content_subtitle)
 
