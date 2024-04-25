@@ -153,17 +153,8 @@ ga('send', 'pageview');
         <!-- 질문 입력 폼 -->
         <!-- 카드 스프라이트 셔플 버튼 -->
         <div class="col-md-4">
-            <input type="text" id="questionInput" placeholder="Enter your question here..." class="form-control">
             <div id="spriteContainer"></div>
             <button class="refreshButton" onclick="displayCardSprites()">Reshuffle</button>        
-        </div>
-
-        <!-- 타로 카드 결과 출력 -->
-        <div class="col-md-4">
-            <button class="refreshButton" id="revealSubmit" onclick="askQuestion()">Ask</button>            
-            <div id="interpretOutput" class="tarot-output">
-                <!-- 결과가 표시될 곳 -->
-            </div>
         </div>
     </div>
     
@@ -254,7 +245,6 @@ ga('send', 'pageview');
 <script id="dsq-count-scr" src="//{{site.disqus}}.disqus.com/count.js"></script>
 {% endif %}
 
-<script type="module" src="{{ site.baseurl }}/assets/js/index.js"></script>
 <script>
 
     function askQuestion() {
