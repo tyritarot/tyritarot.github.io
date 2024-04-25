@@ -21,7 +21,7 @@ const output = document.getElementById('output');
 const submit = document.getElementById('submit');
 const status_submit = document.getElementById('status_submit');
 
-const modelFileName = 'gemma-2b-it-gpu-int4.bin'; /* Update the file name */
+const modelFileName = 'https://github.com/tykimos/tykimos.github.io/raw/b8f32475748e6d782180f8de22500e40af22045f/storage/gemma-2b-it-gpu-int4.bin'; /* Update the file name */
 
 
 /**
@@ -53,6 +53,7 @@ async function runDemo() {
   };
 
   status_submit.value = 'loading...'
+  
   LlmInference
       .createFromOptions(genaiFileset, {
         baseOptions: {modelAssetPath: modelFileName},
