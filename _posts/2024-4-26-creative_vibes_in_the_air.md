@@ -12,6 +12,6 @@ image: http://tyritarot.github.io/warehouse/2024/2024-4-26-creative_vibes_in_the
 
 Today is a meeting day with the production team. I took a snap in this fantastic building where I feel my creativity is about to burst. 🏙️ It's such a fortune to work in such an amazing place. 🥰 Let's hustle in this modern office that everyone dreams of, shall we? 😉 #dailylook #creativity #lifestyle
 
-### Dalle Prompt
+### Midjourney Prompt
 
 She is joyfully smiling. long leg and white shoes. semi-realistic Korean webtoon style image of a beautiful woman with blue eyes, long wavy blonde hair, wearing work white long blouse shirts and white half-long pants. She is standing full-body, stands against the glass walls of a modern building. Her entire outfit, including her white sneakers, The image is in vertical orientation to show the full body, with a more vibrant and bright color style. she confidently carries a dark blue Chanel Caviar Classic Flap Bag. --v 6.0 --style raw --s 250
