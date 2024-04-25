@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tarot Card Sprites</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+<style>
+    #spriteContainer {
+        white-space: nowrap; /* 가로로 나열되도록 설정 */
+        overflow-x: auto; /* 스크롤 가능하도록 설정 */
+        width: calc(165px * 3); /* 가로 스크롤 영역 설정 */
+    }
+
+    .tarot_card {
+        width: 76px; /* 타로 카드의 가로 크기를 50%로 줄임 */
+        height: 106px; /* 타로 카드의 세로 크기를 50%로 줄임 */
+        display: inline-block;
+        /* background-image: url('your_sprite_sheet_url_here'); */
+        /* 지정된 스프라이트 시트 이미지의 URL을 여기에 직접 입력하세요 */
+        margin-right: 0px; /* 각 카드 사이의 간격 설정 */
+    }
+
+    .refreshButton {
+        display: inline-block;
+        padding: 5px 85px;
+        margin: 0px;
+        font-size: 13px;
+        color: white;
+        background-color: #4CAF50; /* Green background */
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background-color 0.3s, box-shadow 0.3s;
+    }
+
+    .refreshButton:hover {
+        background-color: #45a049; /* Darker green background on hover */
+        box-shadow: 0 4px 8px rgba(0,0,0,0.2); /* Shadow effect on hover */
+    }
+
+    input[type="text"] {
+        width: 100%;
+        padding: 10px;
+        margin: 10px 0;
+        box-sizing: border-box;
+    }    
+</style>
+</head>
+<body>
+<div id="spriteContainer">
+</div>
+<input type="text" id="userQuestion" placeholder="Enter your question here...">
+<button class="refreshButton" onclick="askQuestion()">Ask Question</button>
+<button class="refreshButton" onclick="displayCardSprites()">Reshuffle</button>
+
+<script>
+    // Function to generate random integers
+    function getRandomInt(min, max) {
+        return Math.floor(Math.random() * (max - min + 1)) + min;
+    }
+
+    function displayCardSprites() {
+        const container = document.getElementById('spriteContainer');
+        container.innerHTML = '';
+        const spriteSheetWidth = 76; // Width of each card sprite
+        const spriteSheetHeight = 106; // Height of each card sprite
+        const numColumns = 5; // Number of columns in the grid
+        const numRows = 3; // Number of rows in the grid
+        const totalSprites = 3; // Number of sprites to display
+        const spriteSheetUrl = 'sprite-card_512.png'; // URL of your sprite sheet
+        const specialImage = '9791186573723.jpg'; // URL of the special image
+        const animationIntervals = []; // Array to hold animation interval IDs
+    
+        // Function to update the sprite
+        function updateSprite(sprite) {
+            if (Math.random() < 0.1) 
+            { // 10% chance to switch to the special image
+                sprite.style.backgroundImage = `url(${specialImage})`;
+                sprite.style.backgroundPosition = '0px 0px';
+            }
+            else 
+            {
+                sprite.style.backgroundImage = `url(${spriteSheetUrl})`;
+                sprite.style.backgroundPosition = `-${70 + getRandomInt(0, numColumns - 1) * spriteSheetWidth}px -${106 + getRandomInt(0, numRows - 1) * spriteSheetHeight}px`;
+            }
+        }
+
+        // Start the animation for a specific sprite
+        function startAnimation(sprite) {
+            const intervalId = setInterval(() => updateSprite(sprite), 200);
+            animationIntervals.push({ sprite, intervalId });
+        }
+    
+        function stopAnimation(sprite) {
+            const currentIndex = animationIntervals.findIndex(obj => obj.sprite === sprite);
+            if (currentIndex !== -1) {
+                clearInterval(animationIntervals[currentIndex].intervalId);
+                animationIntervals.splice(currentIndex, 1);
+            }
+        }
+
+        for (let i = 0; i < totalSprites; i++) {
+            const sprite = document.createElement('div');
+            sprite.classList.add('tarot_card');
+            container.appendChild(sprite);
+            startAnimation(sprite);
+            sprite.addEventListener('click', () => stopAnimation(sprite));
+        }
+    }
+
+    async function askQuestion() {
+        const question = document.getElementById('userQuestion').value;
+        const responseContainer = document.createElement('p');
+        document.body.appendChild(responseContainer);
+
+        const data = {
+            model: "text-davinci-003",
+            prompt: "Tarot card reading: " + question,
+            max_tokens: 150
+        };
+
+        const response = await fetch("https://api.openai.com/v1/engines/text-davinci-003/completions", {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json",
+                "Authorization": "Bearer YOUR_API_KEY"
+            },
+            body: JSON.stringify(data)
+        });
+
+        const result = await response.json();
+        responseContainer.textContent = result.choices[0].text.trim();
+    }    
+    // Call the function to display card sprites when the page loads
+    window.onload = displayCardSprites;
+</script>
+</body>
+</html>
