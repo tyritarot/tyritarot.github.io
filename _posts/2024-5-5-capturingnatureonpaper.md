@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CapturingNatureOnPaper"
+title: "Capturing Nature On Paper"
 author: tyri
 date: 2024-5-5 21:14:16
 categories: 스케치 자연그림 일상의소중함 Sketching NatureDrawing AppreciatingTheOrdinary
