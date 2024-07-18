@@ -8,9 +8,9 @@ comments: true
 image: http://tyritarot.github.io/warehouse/2024/2024-7-18-celebrating_4k_members_in_midjourney_korea_title.png
 ---
 
-와우, 미드저니 코리아 4000명 가입 축하드려요! 🎉🙌 여러분의 아트 작품들로 활력을 받고 있어요. 여기서 보는 모든 작품들이 제게는 큰 영감이죠. 우리 커뮤니티가 앞으로 더욱 활기차고 재미있게 발전하는 모습 기대할게요! 💕 #미드저니코리아 #아트커뮤니티 #축하해요
+와우! 미드저니 코리아 4000명 축하드려요! 🎉🙌 AI 아트의 무한한 가능성을 보여주는 곳이에요. 여러분의 작품들 보면서 항상 영감 받아요! 앞으로도 더 멋진 커뮤니티 되길 바랄게요 💕 #미드저니코리아 #아트커뮤니티 #축하해요
 
-Wow, congrats to Midjourney Korea for reaching 4K members! 🎉🙌 Your artworks always give me energy. Every piece I see here is a big inspiration to me. Looking forward to seeing our community become even more vibrant and fun! 💕 #MidjourneyKorea #ArtCommunity #Congrats
+Wow! Congrats on Midjourney Korea hitting 4000 members! 🎉🙌 This community is truly showcasing the limitless potential of AI art. I'm always inspired by your amazing creations! Here's to an even more awesome community in the future 💕 #MidjourneyKorea #ArtCommunity #Congrats
 
 ### Midjourney Prompt
 
