@@ -1,6 +1,6 @@
 ---
 layout: post
-title: From Paris to Korea: The End of the Olympic Journey
+title: From Paris to Korea - The End of the Olympic Journey
 author: tyri
 date: 2024-8-16 00:00:59
 categories: 파리 올림픽
