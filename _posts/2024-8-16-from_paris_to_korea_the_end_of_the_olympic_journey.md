@@ -11,6 +11,8 @@ image: http://tyritarot.github.io/warehouse/2024/2024-8-16-from_paris_to_korea_t
 
 Just back from the Paris Olympics and it feels like a dream! 🇫🇷✨ The energy in the stadiums, the athletes' determination, and connecting with fans from all over the world... every moment was special 🏅 Sad to leave, but I'm bringing all that inspiration home! So proud of our athletes, they were truly amazing 😭💖 This experience has given me such motivation to work harder in my own life lol. How did you all feel watching the Olympics? #ParisOlympics #BackHome #LifetimeMemories #Inspired​​​​​​​​​​​​​​​​
 
+![img](http://tyritarot.github.io/warehouse/2024/2024-8-16-from_paris_to_korea_the_end_of_the_olympic_journey_title2.png)
+
 ### Midjourney Prompt
 
 A photo of an elegant Korean woman with long blonde hair, The focus should be on her face, capturing its natural beauty and texture. Her makeup includes soft pink lipstick and subtle eyeshadow that complements her overall look. The composition emphasizes both her facial features and fashionable style. High resolution, sunglasses, wearing white short sleeves and grey pants, stands at the airport entrance surrounded by two people holding suitcases, ready to take her home from Seoul. A sign reads "Incheon International Airport" next to her. --v 6.0 --style raw --s 250 --sref 2335982784 --cref <https://s.mj.run/uj66YfsvOnk> -cw 10
