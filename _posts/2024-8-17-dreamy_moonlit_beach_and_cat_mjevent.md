@@ -7,9 +7,9 @@ categories: MJEvent, cat
 comments: true
 image: http://tyritarot.github.io/warehouse/2024/2024-8-17-dreamy_moonlit_beach_and_cat_mjevent_title.png
 ---
-우와~ 5.5K 이벤트에 참가해봤어요! 🌙🐱 달 위의 해변에서 여유를 즐기는 고양이를 상상해봤는데, 너무 몽환적이고 아름답지 않나요? 추상적이고 유려한 선, 미니멀한 고양이, 그리고 멀리 빛나는 지구까지... 꿈같은 분위기에 푹 빠졌어요 💫 #MJEvent #MidjourneyKorea #5.5K진입 #Event 여러분의 작품도 너무 보고 싶어요! 다들 어떤 멋진 고양이들을 그리셨을지 궁금해요 ㅎㅎ 함께 즐기는 이벤트 정말 좋은 것 같아요 🎨✨
+5.5K 이벤트에 참여했어요! 🌙🐱 고양이 주제를 보고 문득 '고양이가 제일 편안해 보이는 곳은 어디일까?' 하는 생각이 들더라구요. 그러다 떠올린 게 달 위 해변이에요! 지구의 번잡함에서 벗어나 고요하고 몽환적인 분위기... 거기에 고양이의 우아함을 담아보고 싶었어요. 추상적인 느낌으로 그려보니 꿈을 그리는 것 같았어요 💫 다들 어떤 아이디어로 그리셨는지 너무 궁금해요! #MJEvent #MidjourneyKorea #5.5K진입 #Event 🎨✨
 
-Wow~ I joined the 5.5K event! 🌙🐱 Imagined a cat enjoying a beach on the moon, isn't it dreamy and beautiful? The abstract fluid lines, minimalist cat, and the glowing Earth in the distance... I'm totally lost in this dreamlike atmosphere 💫 #MJEvent #MidjourneyKorea #5.5KMilestone #Event Can't wait to see your creations too! I wonder what amazing cats you all have drawn ㅎㅎ It's so great to have an event where we can enjoy art together 🎨✨
+Joined the 5.5K event! 🌙🐱 When I saw the cat theme, I wondered, 'Where would a cat look most comfortable?' That's when I thought of a beach on the moon! Away from Earth's hustle, in a serene, dreamy atmosphere... I wanted to capture the cat's elegance there. Drawing it in an abstract style felt like painting a dream 💫 So curious about your ideas and inspirations! #MJEvent #MidjourneyKorea #5.5KMilestone #Event 🎨✨
 
 ### Midjourney Prompt
 
