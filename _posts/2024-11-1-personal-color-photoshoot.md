@@ -5,8 +5,7 @@ author: tyri
 date: 2024-11-01
 categories: [fashion, photoshoot, style]
 comments: true
-image: http://tyritarot.github.io/warehouse/2024/
-.png
+image: http://tyritarot.github.io/warehouse/2024/2024-11-1-personal-color-photoshoot.png
 ---
 
 더 추워지기 전에 산뜻한 느낌으로 화보 촬영했어요. 퍼스널컬러를 찾아가는 중이에요! 다양한 스타일링을 시도해봤는데 어떠신가요? #패션스타일링 #퍼스널컬러 #화보촬영 #데일리룩 #오오티디 #셀카 #셀피 #인스타감성
